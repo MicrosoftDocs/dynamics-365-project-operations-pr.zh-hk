@@ -1,1 +1,1 @@
-Android
+<span data-ttu-id="b5287-101">Android</span><span class="sxs-lookup"><span data-stu-id="b5287-101">Android</span></span>

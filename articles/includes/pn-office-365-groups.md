@@ -1,1 +1,1 @@
-Office 365 群組
+<span data-ttu-id="38bb2-101">Office 365 群組</span><span class="sxs-lookup"><span data-stu-id="38bb2-101">Office 365 Groups</span></span>

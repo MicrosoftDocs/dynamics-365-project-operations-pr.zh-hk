@@ -1,1 +1,1 @@
-Microsoft Project 的 Dynamics 365 Project Service Automation 增益集
+<span data-ttu-id="145e5-101">Microsoft Project 的 Dynamics 365 Project Service Automation 增益集</span><span class="sxs-lookup"><span data-stu-id="145e5-101">Dynamics 365 Project Service Automation Add-in for Microsoft Project</span></span>
