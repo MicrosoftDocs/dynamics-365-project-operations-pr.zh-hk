@@ -5,94 +5,94 @@ author: sigitac
 manager: Annbe
 ms.date: 10/07/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 7a03f021b1ae0a87dfc947976b8a16c8246e1684
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: dc3b353f19b915f645aed91dc2a8127117027034
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4087386"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4121155"
 ---
-# <a name="sign-up-for-project-operations-preview-subscriptions-for-resource-non-stocked-scenarios"></a><span data-ttu-id="5d523-103">註冊資源/非庫存案例適用的 Project Operations 預覽版訂閱</span><span class="sxs-lookup"><span data-stu-id="5d523-103">Sign up for Project Operations preview subscriptions for resource/ non-stocked scenarios</span></span>
+# <a name="sign-up-for-project-operations-preview-subscriptions-for-resource-non-stocked-scenarios"></a><span data-ttu-id="ef433-103">註冊資源/非庫存案例適用的 Project Operations 預覽版訂閱</span><span class="sxs-lookup"><span data-stu-id="ef433-103">Sign up for Project Operations preview subscriptions for resource/ non-stocked scenarios</span></span>
 
-<span data-ttu-id="5d523-104">_**適用於：** 資源/非庫存型案例適用的 Project Operations_</span><span class="sxs-lookup"><span data-stu-id="5d523-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios_</span></span>
+<span data-ttu-id="ef433-104">_**適用於：** 資源/非庫存型案例適用的 Project Operations_</span><span class="sxs-lookup"><span data-stu-id="ef433-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios_</span></span>
 
-<span data-ttu-id="5d523-105">本主題說明如何訂閱預覽/合作夥伴供應項目，以及部署資源/非庫存型案例適用的 Project Operations 環境。</span><span class="sxs-lookup"><span data-stu-id="5d523-105">This topic explains how to subscribe to the preview/partner offer and deploy Project Operations environment for resource/ non-stocked based scenarios.</span></span>
+<span data-ttu-id="ef433-105">本主題說明如何訂閱預覽/合作夥伴供應項目，以及部署資源/非庫存型案例適用的 Project Operations 環境。</span><span class="sxs-lookup"><span data-stu-id="ef433-105">This topic explains how to subscribe to the preview/partner offer and deploy Project Operations environment for resource/ non-stocked based scenarios.</span></span>
 
-## <a name="prerequisites"></a><span data-ttu-id="5d523-106">先決條件</span><span class="sxs-lookup"><span data-stu-id="5d523-106">Prerequisites</span></span>
+## <a name="prerequisites"></a><span data-ttu-id="ef433-106">先決條件</span><span class="sxs-lookup"><span data-stu-id="ef433-106">Prerequisites</span></span>
 
-- <span data-ttu-id="5d523-107">您將會收到電子郵件，邀請您參與預覽。</span><span class="sxs-lookup"><span data-stu-id="5d523-107">You will receive an email inviting you to participate in the preview.</span></span> <span data-ttu-id="5d523-108">您可以在 [Project Operations 網站](https://dynamics.microsoft.com/en-us/project-operations/overview/)上要求預覽。</span><span class="sxs-lookup"><span data-stu-id="5d523-108">You can request a preview on the [Project Operations website](https://dynamics.microsoft.com/en-us/project-operations/overview/).</span></span>
-- <span data-ttu-id="5d523-109">部署預覽版的使用者必須具備 Azure 租用戶全域管理員權限。</span><span class="sxs-lookup"><span data-stu-id="5d523-109">The user who deploys the preview must have Azure tenant global administrator rights.</span></span>
-- <span data-ttu-id="5d523-110">部署 Finance 環境需要按環境計費的有效 Azure 訂閱。</span><span class="sxs-lookup"><span data-stu-id="5d523-110">Deploying a Finance environment requires a valid Azure subscription that will be billed per environment.</span></span> <span data-ttu-id="5d523-111">您可以使用組織現有的訂閱，或使用 [Azure 試用版](https://azure.microsoft.com/en-us/free/)來開始進行。</span><span class="sxs-lookup"><span data-stu-id="5d523-111">You can use your organizations existing subscription or use an [Azure trial](https://azure.microsoft.com/en-us/free/) to get started.</span></span> <span data-ttu-id="5d523-112">CDS 環境會在有限的 30 天期間免費提供。</span><span class="sxs-lookup"><span data-stu-id="5d523-112">The CDS environment will be provided free for a limited 30 day period.</span></span>
+- <span data-ttu-id="ef433-107">您將會收到電子郵件，邀請您參與預覽。</span><span class="sxs-lookup"><span data-stu-id="ef433-107">You will receive an email inviting you to participate in the preview.</span></span> <span data-ttu-id="ef433-108">您可以在 [Project Operations 網站](https://dynamics.microsoft.com/en-us/project-operations/overview/)上要求預覽。</span><span class="sxs-lookup"><span data-stu-id="ef433-108">You can request a preview on the [Project Operations website](https://dynamics.microsoft.com/en-us/project-operations/overview/).</span></span>
+- <span data-ttu-id="ef433-109">部署預覽版的使用者必須具備 Azure 租用戶全域管理員權限。</span><span class="sxs-lookup"><span data-stu-id="ef433-109">The user who deploys the preview must have Azure tenant global administrator rights.</span></span>
+- <span data-ttu-id="ef433-110">部署 Finance 環境需要按環境計費的有效 Azure 訂閱。</span><span class="sxs-lookup"><span data-stu-id="ef433-110">Deploying a Finance environment requires a valid Azure subscription that will be billed per environment.</span></span> <span data-ttu-id="ef433-111">您可以使用組織現有的訂閱，或使用 [Azure 試用版](https://azure.microsoft.com/en-us/free/)來開始進行。</span><span class="sxs-lookup"><span data-stu-id="ef433-111">You can use your organizations existing subscription or use an [Azure trial](https://azure.microsoft.com/en-us/free/) to get started.</span></span> <span data-ttu-id="ef433-112">CDS 環境會在有限的 30 天期間免費提供。</span><span class="sxs-lookup"><span data-stu-id="ef433-112">The CDS environment will be provided free for a limited 30 day period.</span></span>
 
-## <a name="subscribe"></a><span data-ttu-id="5d523-113">訂閱</span><span class="sxs-lookup"><span data-stu-id="5d523-113">Subscribe</span></span>
+## <a name="subscribe"></a><span data-ttu-id="ef433-113">訂閱</span><span class="sxs-lookup"><span data-stu-id="ef433-113">Subscribe</span></span>
 
-<span data-ttu-id="5d523-114">您的[預覽要求](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u)獲得核准時，將會收到 Microsoft 透過電子郵件提供的三個供應項目。</span><span class="sxs-lookup"><span data-stu-id="5d523-114">When your [preview request](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u) is approved, you will receive three offers from Microsoft by email.</span></span> <span data-ttu-id="5d523-115">這些供應項目可讓您部署 Project Operations 預覽：</span><span class="sxs-lookup"><span data-stu-id="5d523-115">These offers allow you to deploy the Project Operations Preview:</span></span>
+<span data-ttu-id="ef433-114">您的[預覽要求](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u)獲得核准時，將會收到 Microsoft 透過電子郵件提供的三個供應項目。</span><span class="sxs-lookup"><span data-stu-id="ef433-114">When your [preview request](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u) is approved, you will receive three offers from Microsoft by email.</span></span> <span data-ttu-id="ef433-115">這些供應項目可讓您部署 Project Operations 預覽：</span><span class="sxs-lookup"><span data-stu-id="ef433-115">These offers allow you to deploy the Project Operations Preview:</span></span>
 
-- <span data-ttu-id="5d523-116">Dynamics 365 Project Operations (CRM) - 預覽版試用</span><span class="sxs-lookup"><span data-stu-id="5d523-116">Dynamics 365 Project Operations (CRM) - Preview Trial</span></span>
-- <span data-ttu-id="5d523-117">Office 365 Project Operations - 預覽版試用</span><span class="sxs-lookup"><span data-stu-id="5d523-117">Office 365 Project Operations - Preview Trial</span></span>
-- <span data-ttu-id="5d523-118">Dynamics 365 Finance - 預覽版試用</span><span class="sxs-lookup"><span data-stu-id="5d523-118">Dynamics 365 Finance - Preview Trial</span></span>
+- <span data-ttu-id="ef433-116">Dynamics 365 Project Operations (CRM) - 預覽版試用</span><span class="sxs-lookup"><span data-stu-id="ef433-116">Dynamics 365 Project Operations (CRM) - Preview Trial</span></span>
+- <span data-ttu-id="ef433-117">Office 365 Project Operations - 預覽版試用</span><span class="sxs-lookup"><span data-stu-id="ef433-117">Office 365 Project Operations - Preview Trial</span></span>
+- <span data-ttu-id="ef433-118">Dynamics 365 Finance - 預覽版試用</span><span class="sxs-lookup"><span data-stu-id="ef433-118">Dynamics 365 Finance - Preview Trial</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="5d523-119">組織中只有一個人 (租用戶管理員) 需要執行這項工作。</span><span class="sxs-lookup"><span data-stu-id="5d523-119">Only one person, the tenant administrator, in an organization needs to perform this task.</span></span> <span data-ttu-id="5d523-120">如果您不是此版本的訂閱者，請等到您的組織已註冊，而您收到您的使用者認證之後再說。</span><span class="sxs-lookup"><span data-stu-id="5d523-120">If you aren't the subscriber to this release, wait until your organization has been signed up and you've received your user credentials.</span></span>
+> <span data-ttu-id="ef433-119">組織中只有一個人 (租用戶管理員) 需要執行這項工作。</span><span class="sxs-lookup"><span data-stu-id="ef433-119">Only one person, the tenant administrator, in an organization needs to perform this task.</span></span> <span data-ttu-id="ef433-120">如果您不是此版本的訂閱者，請等到您的組織已註冊，而您收到您的使用者認證之後再說。</span><span class="sxs-lookup"><span data-stu-id="ef433-120">If you aren't the subscriber to this release, wait until your organization has been signed up and you've received your user credentials.</span></span>
 
-### <a name="dynamics-365-project-operations-crm---preview-trial"></a><span data-ttu-id="5d523-121">Dynamics 365 Project Operations (CRM) - 預覽版試用</span><span class="sxs-lookup"><span data-stu-id="5d523-121">Dynamics 365 Project Operations (CRM) - Preview Trial</span></span> 
+### <a name="dynamics-365-project-operations-crm---preview-trial"></a><span data-ttu-id="ef433-121">Dynamics 365 Project Operations (CRM) - 預覽版試用</span><span class="sxs-lookup"><span data-stu-id="ef433-121">Dynamics 365 Project Operations (CRM) - Preview Trial</span></span> 
 
-<span data-ttu-id="5d523-122">開始之前，請確定您已使用您要預覽 Project Operations 所在租用戶中的使用者公司帳戶來登入瀏覽器。</span><span class="sxs-lookup"><span data-stu-id="5d523-122">Before you begin, make sure you are logged in to a browser with the user work account in the tenant where you want the Project Operations preview.</span></span>
+<span data-ttu-id="ef433-122">開始之前，請確定您已使用您要預覽 Project Operations 所在租用戶中的使用者公司帳戶來登入瀏覽器。</span><span class="sxs-lookup"><span data-stu-id="ef433-122">Before you begin, make sure you are logged in to a browser with the user work account in the tenant where you want the Project Operations preview.</span></span>
 
-1. <span data-ttu-id="5d523-123">在瀏覽器 URL 中貼上第一個供應項目代碼 **Dynamics 365 Project Operations (CRM) - 預覽版試用** 以進行兌換。</span><span class="sxs-lookup"><span data-stu-id="5d523-123">Redeem the first offer code, **Dynamics 365 Project Operations (CRM) - Preview Trial** by pasting it into the browser URL.</span></span>
+1. <span data-ttu-id="ef433-123">在瀏覽器 URL 中貼上第一個供應項目代碼 **Dynamics 365 Project Operations (CRM) - 預覽版試用** 以進行兌換。</span><span class="sxs-lookup"><span data-stu-id="ef433-123">Redeem the first offer code, **Dynamics 365 Project Operations (CRM) - Preview Trial** by pasting it into the browser URL.</span></span>
 
 ![兌換供應項目](./media/16RedeemFirstOfferNew.png)
 
-2. <span data-ttu-id="5d523-125">確認您的訂閱。</span><span class="sxs-lookup"><span data-stu-id="5d523-125">Confirm your order.</span></span>
+2. <span data-ttu-id="ef433-125">確認您的訂閱。</span><span class="sxs-lookup"><span data-stu-id="ef433-125">Confirm your order.</span></span>
 
 ![確認訂單](./media/17ConfirmOrderNew.png)
 
-<span data-ttu-id="5d523-127">您會看到已成功兌換供應項目的確認。</span><span class="sxs-lookup"><span data-stu-id="5d523-127">You will see confirmation offer was successfully redeemed.</span></span>
+<span data-ttu-id="ef433-127">您會看到已成功兌換供應項目的確認。</span><span class="sxs-lookup"><span data-stu-id="ef433-127">You will see confirmation offer was successfully redeemed.</span></span>
 
 ![確認](./media/18OrderConfirmationNew.png)
 
-### <a name="office-365-project-operations---preview-trial"></a><span data-ttu-id="5d523-129">Office 365 Project Operations - 預覽版試用</span><span class="sxs-lookup"><span data-stu-id="5d523-129">Office 365 Project Operations - Preview Trial</span></span>
+### <a name="office-365-project-operations---preview-trial"></a><span data-ttu-id="ef433-129">Office 365 Project Operations - 預覽版試用</span><span class="sxs-lookup"><span data-stu-id="ef433-129">Office 365 Project Operations - Preview Trial</span></span>
 
-<span data-ttu-id="5d523-130">重複與第一個供應項目代碼所用相同的步驟。</span><span class="sxs-lookup"><span data-stu-id="5d523-130">Repeat the same steps as with the first offer code.</span></span> <span data-ttu-id="5d523-131">請務必使用與第一個供應項目代碼所用相同的使用者帳戶來新增第二個供應項目代碼。</span><span class="sxs-lookup"><span data-stu-id="5d523-131">Make sure to add the second offer code using the same user account that was used with the first offer code.</span></span>
+<span data-ttu-id="ef433-130">重複與第一個供應項目代碼所用相同的步驟。</span><span class="sxs-lookup"><span data-stu-id="ef433-130">Repeat the same steps as with the first offer code.</span></span> <span data-ttu-id="ef433-131">請務必使用與第一個供應項目代碼所用相同的使用者帳戶來新增第二個供應項目代碼。</span><span class="sxs-lookup"><span data-stu-id="ef433-131">Make sure to add the second offer code using the same user account that was used with the first offer code.</span></span>
 
-### <a name="dynamics-365-finance-preview-trial"></a><span data-ttu-id="5d523-132">Dynamics 365 Finance 預覽版試用</span><span class="sxs-lookup"><span data-stu-id="5d523-132">Dynamics 365 Finance preview trial</span></span>
+### <a name="dynamics-365-finance-preview-trial"></a><span data-ttu-id="ef433-132">Dynamics 365 Finance 預覽版試用</span><span class="sxs-lookup"><span data-stu-id="ef433-132">Dynamics 365 Finance preview trial</span></span>
 
-<span data-ttu-id="5d523-133">重複同樣的步驟，取得歡迎電子郵件中提供的最後一個供應項目。</span><span class="sxs-lookup"><span data-stu-id="5d523-133">Repeat the same steps with the last offer from the Welcome email.</span></span>
+<span data-ttu-id="ef433-133">重複同樣的步驟，取得歡迎電子郵件中提供的最後一個供應項目。</span><span class="sxs-lookup"><span data-stu-id="ef433-133">Repeat the same steps with the last offer from the Welcome email.</span></span>
 
-## <a name="assign-licenses"></a><span data-ttu-id="5d523-134">指派授權</span><span class="sxs-lookup"><span data-stu-id="5d523-134">Assign licenses</span></span>
+## <a name="assign-licenses"></a><span data-ttu-id="ef433-134">指派授權</span><span class="sxs-lookup"><span data-stu-id="ef433-134">Assign licenses</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="5d523-135">您需要組織的 Microsoft 365 入口網站系統管理存取權，才能完成下列步驟。</span><span class="sxs-lookup"><span data-stu-id="5d523-135">You will need administrative access to your organization's Microsoft 365 Portal to complete the following steps.</span></span>
+> <span data-ttu-id="ef433-135">您需要組織的 Microsoft 365 入口網站系統管理存取權，才能完成下列步驟。</span><span class="sxs-lookup"><span data-stu-id="ef433-135">You will need administrative access to your organization's Microsoft 365 Portal to complete the following steps.</span></span>
 
-1. <span data-ttu-id="5d523-136">前往 [Microsoft 365 系統管理中心](https://portal.office.com/)，將授權指派給您的使用者。</span><span class="sxs-lookup"><span data-stu-id="5d523-136">Go to [Microsoft 365 admin center](https://portal.office.com/) to assign the licenses to your users.</span></span>
+1. <span data-ttu-id="ef433-136">前往 [Microsoft 365 系統管理中心](https://portal.office.com/)，將授權指派給您的使用者。</span><span class="sxs-lookup"><span data-stu-id="ef433-136">Go to [Microsoft 365 admin center](https://portal.office.com/) to assign the licenses to your users.</span></span>
 
 ![系統管理中心首頁](./media/14AdminPortal.png)
 
-2. <span data-ttu-id="5d523-138">在 **使用中使用者** 頁面上，選取要將授權指派給的使用者。</span><span class="sxs-lookup"><span data-stu-id="5d523-138">On the **Active users** page, select the users that you want to assign a license to.</span></span>
+2. <span data-ttu-id="ef433-138">在 **使用中使用者** 頁面上，選取要將授權指派給的使用者。</span><span class="sxs-lookup"><span data-stu-id="ef433-138">On the **Active users** page, select the users that you want to assign a license to.</span></span>
 
 ![指派授權](./media/15AssignLicenses.png)
 
-3. <span data-ttu-id="5d523-140">確認是否已選取 **Dynamics 365 Project Operations (CRM) 預覽** 及 **Office 365 Project Operations - 預覽** 授權，然後選取 **儲存變更** 。</span><span class="sxs-lookup"><span data-stu-id="5d523-140">Verify that the **Dynamics 365 Project Operations (CRM) Preview** and **Office 365 Project Operations - Preview** license have been selected and select **Save changes**.</span></span>
+3. <span data-ttu-id="ef433-140">確認是否已選取 **Dynamics 365 Project Operations (CRM) 預覽** 及 **Office 365 Project Operations - 預覽** 授權，然後選取 **儲存變更**。</span><span class="sxs-lookup"><span data-stu-id="ef433-140">Verify that the **Dynamics 365 Project Operations (CRM) Preview** and **Office 365 Project Operations - Preview** license have been selected and select **Save changes**.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="5d523-141">Finance 試用版供應項目不需要指派給使用者。</span><span class="sxs-lookup"><span data-stu-id="5d523-141">The Finance trial offer does not need to be assigned to a user.</span></span>
+> <span data-ttu-id="ef433-141">Finance 試用版供應項目不需要指派給使用者。</span><span class="sxs-lookup"><span data-stu-id="ef433-141">The Finance trial offer does not need to be assigned to a user.</span></span>
 
-## <a name="start-a-new-project-in-lcs"></a><span data-ttu-id="5d523-142">在 LCS 中開始新專案</span><span class="sxs-lookup"><span data-stu-id="5d523-142">Start a new project in LCS</span></span>
+## <a name="start-a-new-project-in-lcs"></a><span data-ttu-id="ef433-142">在 LCS 中開始新專案</span><span class="sxs-lookup"><span data-stu-id="ef433-142">Start a new project in LCS</span></span>
 
-<span data-ttu-id="5d523-143">建立新的 LCS 專案，如[在 LCS 中開始新專案](create-lcs-project.md)主題中所述</span><span class="sxs-lookup"><span data-stu-id="5d523-143">Create a new LCS project as described in the topic, [Start a new project in LCS](create-lcs-project.md)</span></span>
+<span data-ttu-id="ef433-143">建立新的 LCS 專案，如[在 LCS 中開始新專案](create-lcs-project.md)主題中所述</span><span class="sxs-lookup"><span data-stu-id="ef433-143">Create a new LCS project as described in the topic, [Start a new project in LCS](create-lcs-project.md)</span></span>
 
-## <a name="add-an-azure-subscription-to-an-lcs-project"></a><span data-ttu-id="5d523-144">將 Azure 訂閱新增至 LCS 專案</span><span class="sxs-lookup"><span data-stu-id="5d523-144">Add an Azure subscription to an LCS project</span></span>
+## <a name="add-an-azure-subscription-to-an-lcs-project"></a><span data-ttu-id="ef433-144">將 Azure 訂閱新增至 LCS 專案</span><span class="sxs-lookup"><span data-stu-id="ef433-144">Add an Azure subscription to an LCS project</span></span>
 
-<span data-ttu-id="5d523-145">若要完成此工作，請依照主題[將 Azure 訂閱新增至 LCS 專案](resource-add-azure-subscription-lcs-project.md)中的步驟進行。</span><span class="sxs-lookup"><span data-stu-id="5d523-145">To complete this task, follow the steps in the topic, [Add an Azure subscription to LCS project](resource-add-azure-subscription-lcs-project.md).</span></span>
+<span data-ttu-id="ef433-145">若要完成此工作，請依照主題[將 Azure 訂閱新增至 LCS 專案](resource-add-azure-subscription-lcs-project.md)中的步驟進行。</span><span class="sxs-lookup"><span data-stu-id="ef433-145">To complete this task, follow the steps in the topic, [Add an Azure subscription to LCS project](resource-add-azure-subscription-lcs-project.md).</span></span>
 
-## <a name="deploy-finance-demo-environment-with-project-operations-for-resourcenon-stocked-scenarios"></a><span data-ttu-id="5d523-146">使用資源/非庫存案例適用的 Project Operations 部署 Finance 示範環境</span><span class="sxs-lookup"><span data-stu-id="5d523-146">Deploy Finance demo environment with Project Operations for resource/non-stocked scenarios</span></span>
+## <a name="deploy-finance-demo-environment-with-project-operations-for-resourcenon-stocked-scenarios"></a><span data-ttu-id="ef433-146">使用資源/非庫存案例適用的 Project Operations 部署 Finance 示範環境</span><span class="sxs-lookup"><span data-stu-id="ef433-146">Deploy Finance demo environment with Project Operations for resource/non-stocked scenarios</span></span>
 
-<span data-ttu-id="5d523-147">依照主題[佈建新環境](resource-provision-new-environment.md)中的指引完成部署。</span><span class="sxs-lookup"><span data-stu-id="5d523-147">Follow the guidance in the topic, [Provision a new environment](resource-provision-new-environment.md) to complete the deployment.</span></span> <span data-ttu-id="5d523-148">使用[示範環境](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment)部署類型以進行預覽。</span><span class="sxs-lookup"><span data-stu-id="5d523-148">Use the [demo environment](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) deployment type for preview.</span></span> 
+<span data-ttu-id="ef433-147">依照主題[佈建新環境](resource-provision-new-environment.md)中的指引完成部署。</span><span class="sxs-lookup"><span data-stu-id="ef433-147">Follow the guidance in the topic, [Provision a new environment](resource-provision-new-environment.md) to complete the deployment.</span></span> <span data-ttu-id="ef433-148">使用[示範環境](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment)部署類型以進行預覽。</span><span class="sxs-lookup"><span data-stu-id="ef433-148">Use the [demo environment](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) deployment type for preview.</span></span> 
 
-## <a name="install-cds-setup-and-configuration-data"></a><span data-ttu-id="5d523-149">安裝 CDS 設定和設定資料</span><span class="sxs-lookup"><span data-stu-id="5d523-149">Install CDS setup and configuration data</span></span>
+## <a name="install-cds-setup-and-configuration-data"></a><span data-ttu-id="ef433-149">安裝 CDS 設定和設定資料</span><span class="sxs-lookup"><span data-stu-id="ef433-149">Install CDS setup and configuration data</span></span>
 
-<span data-ttu-id="5d523-150">安裝 CDS 設定和設定資料，如主題[設定和套用 Common Data Service 中的設定資料](resource-apply-pro-setup-config-data.md)中所述。</span><span class="sxs-lookup"><span data-stu-id="5d523-150">Install CDS setup and configuration data as described in the topic, [Set up and apply configuration data in the Common Data Service](resource-apply-pro-setup-config-data.md).</span></span>
-<span data-ttu-id="5d523-151">只有在部署了 Finance 示範環境，且 FO 中的示範資料準備就緒之後，才能完成此步驟。</span><span class="sxs-lookup"><span data-stu-id="5d523-151">Complete this step only after Finance demo environment is deployed and demo data in FO is ready.</span></span>
+<span data-ttu-id="ef433-150">安裝 CDS 設定和設定資料，如主題[設定和套用 Common Data Service 中的設定資料](resource-apply-pro-setup-config-data.md)中所述。</span><span class="sxs-lookup"><span data-stu-id="ef433-150">Install CDS setup and configuration data as described in the topic, [Set up and apply configuration data in the Common Data Service](resource-apply-pro-setup-config-data.md).</span></span>
+<span data-ttu-id="ef433-151">只有在部署了 Finance 示範環境，且 FO 中的示範資料準備就緒之後，才能完成此步驟。</span><span class="sxs-lookup"><span data-stu-id="ef433-151">Complete this step only after Finance demo environment is deployed and demo data in FO is ready.</span></span>
