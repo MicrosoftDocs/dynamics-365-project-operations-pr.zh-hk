@@ -37,3 +37,6 @@ ms.locfileid: "5114746"
 |飯店         |歐元 725              |歐元 557                        |歐元 168                          |
 |餐費         |歐元 346              |歐元 284                        |歐元 62                           |
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

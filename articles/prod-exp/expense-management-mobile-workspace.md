@@ -240,3 +240,6 @@ ms.locfileid: "5114740"
 22. 選取 **送出**。
 23. 輸入任何關於核准者的意見。
 24. 選取 **完成**。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

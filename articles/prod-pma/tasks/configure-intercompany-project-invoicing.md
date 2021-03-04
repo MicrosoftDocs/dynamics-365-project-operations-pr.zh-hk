@@ -64,3 +64,6 @@ ms.locfileid: "4087559"
 32. 在 **定價** 欄位中，輸入數字。
 33. 選取 **儲存** 。
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]
