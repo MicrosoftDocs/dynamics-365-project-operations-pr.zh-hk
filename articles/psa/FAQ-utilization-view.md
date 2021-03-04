@@ -18,84 +18,86 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a1d1db532c65b2a13f3cf4e1281a5987490b96df
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 4516c562e7eaf35c5fef638183967eef5a033b11
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4122190"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5146420"
 ---
-# <a name="view-chargeable-utilization-for-resources"></a><span data-ttu-id="88be8-103">檢視資源的應收費使用率</span><span class="sxs-lookup"><span data-stu-id="88be8-103">View chargeable utilization for resources</span></span>
+# <a name="view-chargeable-utilization-for-resources"></a><span data-ttu-id="7a675-103">檢視資源的應收費使用率</span><span class="sxs-lookup"><span data-stu-id="7a675-103">View chargeable utilization for resources</span></span>
+
+[!include [banner](../includes/psa-now-project-operations.md)]
  
-<span data-ttu-id="88be8-104">**Project Service 資源使用率** 頁面上的 **使用率檢視表** 會顯示每個可預約資源的應收費使用率。</span><span class="sxs-lookup"><span data-stu-id="88be8-104">The **Utilization View** on the **Project Service Resource Utilization** page shows the chargeable utilization for each bookable resource.</span></span> <span data-ttu-id="88be8-105">檢視表是以排程面板為基礎所建立，因此您會發現許多相同的功能。</span><span class="sxs-lookup"><span data-stu-id="88be8-105">Because the view is based on the schedule board, you’ll find many of the same functions.</span></span>
+<span data-ttu-id="7a675-104">**Project Service 資源使用率** 頁面上的 **使用率檢視表** 會顯示每個可預約資源的應收費使用率。</span><span class="sxs-lookup"><span data-stu-id="7a675-104">The **Utilization View** on the **Project Service Resource Utilization** page shows the chargeable utilization for each bookable resource.</span></span> <span data-ttu-id="7a675-105">檢視表是以排程面板為基礎所建立，因此您會發現許多相同的功能。</span><span class="sxs-lookup"><span data-stu-id="7a675-105">Because the view is based on the schedule board, you’ll find many of the same functions.</span></span>
 
 > ![使用率檢視表的螢幕擷取畫面](media/FAQ-utilization-1.png)
  
 
-<span data-ttu-id="88be8-107">應收費使用率計算依下列方式運作：</span><span class="sxs-lookup"><span data-stu-id="88be8-107">The chargeable utilization calculation works as follows:</span></span>
+<span data-ttu-id="7a675-107">應收費使用率計算依下列方式運作：</span><span class="sxs-lookup"><span data-stu-id="7a675-107">The chargeable utilization calculation works as follows:</span></span>
 
-   <span data-ttu-id="88be8-108">應收費使用率 = (應收費實際時數) / (資源產能)</span><span class="sxs-lookup"><span data-stu-id="88be8-108">Chargeable utilization = (Chargeable actual hours) / (resource capacity)</span></span>
+   <span data-ttu-id="7a675-108">應收費使用率 = (應收費實際時數) / (資源產能)</span><span class="sxs-lookup"><span data-stu-id="7a675-108">Chargeable utilization = (Chargeable actual hours) / (resource capacity)</span></span>
 
-<span data-ttu-id="88be8-109">儲存格表示所選期間 (日、週或月) 的已計算應收費使用率。</span><span class="sxs-lookup"><span data-stu-id="88be8-109">The cells represent the calculated chargeable utilization for the selected period (days, weeks, or months).</span></span>
+<span data-ttu-id="7a675-109">儲存格表示所選期間 (日、週或月) 的已計算應收費使用率。</span><span class="sxs-lookup"><span data-stu-id="7a675-109">The cells represent the calculated chargeable utilization for the selected period (days, weeks, or months).</span></span>
 
-<span data-ttu-id="88be8-110">每個儲存格中的色彩顯示資源相較於其目標應收費使用率的應收費使用率。</span><span class="sxs-lookup"><span data-stu-id="88be8-110">The colors in each cell show the chargeable utilization for a resource as compared to their target chargeable utilization.</span></span> 
+<span data-ttu-id="7a675-110">每個儲存格中的色彩顯示資源相較於其目標應收費使用率的應收費使用率。</span><span class="sxs-lookup"><span data-stu-id="7a675-110">The colors in each cell show the chargeable utilization for a resource as compared to their target chargeable utilization.</span></span> 
 
-<span data-ttu-id="88be8-111">您可以在資源的預設角色或個別資源本身設定目標使用率。</span><span class="sxs-lookup"><span data-stu-id="88be8-111">The target utilization can be set on the resource’s default role or on the individual resource itself.</span></span> <span data-ttu-id="88be8-112">計算會先查看個別資源以取得目標，然後參考資源的預設角色。</span><span class="sxs-lookup"><span data-stu-id="88be8-112">The calculation looks at the individual for the target first, and then to the resource’s default role.</span></span>
+<span data-ttu-id="7a675-111">您可以在資源的預設角色或個別資源本身設定目標使用率。</span><span class="sxs-lookup"><span data-stu-id="7a675-111">The target utilization can be set on the resource’s default role or on the individual resource itself.</span></span> <span data-ttu-id="7a675-112">計算會先查看個別資源以取得目標，然後參考資源的預設角色。</span><span class="sxs-lookup"><span data-stu-id="7a675-112">The calculation looks at the individual for the target first, and then to the resource’s default role.</span></span>
 
-## <a name="set-target-on-a-resource"></a><span data-ttu-id="88be8-113">對資源設定目標</span><span class="sxs-lookup"><span data-stu-id="88be8-113">Set target on a resource</span></span>
+## <a name="set-target-on-a-resource"></a><span data-ttu-id="7a675-113">對資源設定目標</span><span class="sxs-lookup"><span data-stu-id="7a675-113">Set target on a resource</span></span>
 
-1. <span data-ttu-id="88be8-114">移至 **資源** \> **資源**。</span><span class="sxs-lookup"><span data-stu-id="88be8-114">Go to **Resources** \> **Resources**.</span></span> 
-2. <span data-ttu-id="88be8-115">選取要開啟記錄的資源。</span><span class="sxs-lookup"><span data-stu-id="88be8-115">Select a resource to open the record.</span></span> 
-3. <span data-ttu-id="88be8-116">在 **Project Service** 索引標籤上，您可以設定資源的目標使用率。</span><span class="sxs-lookup"><span data-stu-id="88be8-116">On the **Project Service** tab, you can set the resource’s target utilization.</span></span>
+1. <span data-ttu-id="7a675-114">移至 **資源** \> **資源**。</span><span class="sxs-lookup"><span data-stu-id="7a675-114">Go to **Resources** \> **Resources**.</span></span> 
+2. <span data-ttu-id="7a675-115">選取要開啟記錄的資源。</span><span class="sxs-lookup"><span data-stu-id="7a675-115">Select a resource to open the record.</span></span> 
+3. <span data-ttu-id="7a675-116">在 **Project Service** 索引標籤上，您可以設定資源的目標使用率。</span><span class="sxs-lookup"><span data-stu-id="7a675-116">On the **Project Service** tab, you can set the resource’s target utilization.</span></span>
 
 > ![使用 [Project Service] 索引標籤設定目標使用率的螢幕擷取畫面](media/FAQ-utilization-2.png)
  
-## <a name="set-target-utilization-on-a-role"></a><span data-ttu-id="88be8-118">設定角色的目標使用率</span><span class="sxs-lookup"><span data-stu-id="88be8-118">Set target utilization on a role</span></span>
+## <a name="set-target-utilization-on-a-role"></a><span data-ttu-id="7a675-118">設定角色的目標使用率</span><span class="sxs-lookup"><span data-stu-id="7a675-118">Set target utilization on a role</span></span>
 
-1. <span data-ttu-id="88be8-119">移至 **資源**\>**資源角色**。</span><span class="sxs-lookup"><span data-stu-id="88be8-119">Go to **Resources** \> **Resource Roles**.</span></span> 
-2. <span data-ttu-id="88be8-120">選取角色並開啟記錄。</span><span class="sxs-lookup"><span data-stu-id="88be8-120">Select a role and open the record.</span></span> 
-3. <span data-ttu-id="88be8-121">設定角色的目標使用率。</span><span class="sxs-lookup"><span data-stu-id="88be8-121">Set the target utilization for the role.</span></span>
+1. <span data-ttu-id="7a675-119">移至 **資源**\>**資源角色**。</span><span class="sxs-lookup"><span data-stu-id="7a675-119">Go to **Resources** \> **Resource Roles**.</span></span> 
+2. <span data-ttu-id="7a675-120">選取角色並開啟記錄。</span><span class="sxs-lookup"><span data-stu-id="7a675-120">Select a role and open the record.</span></span> 
+3. <span data-ttu-id="7a675-121">設定角色的目標使用率。</span><span class="sxs-lookup"><span data-stu-id="7a675-121">Set the target utilization for the role.</span></span>
 
 > ![使用 [資源角色] 設定目標使用率的螢幕擷取畫面](media/FAQ-utilization-3.png)
  
-## <a name="calculate-chargeable-utilization-for-a-resource"></a><span data-ttu-id="88be8-123">計算資源的應收費使用率</span><span class="sxs-lookup"><span data-stu-id="88be8-123">Calculate chargeable utilization for a resource</span></span>
+## <a name="calculate-chargeable-utilization-for-a-resource"></a><span data-ttu-id="7a675-123">計算資源的應收費使用率</span><span class="sxs-lookup"><span data-stu-id="7a675-123">Calculate chargeable utilization for a resource</span></span>
 
-<span data-ttu-id="88be8-124">若要計算資源的應收費使用率，您必須完成一些先決條件。</span><span class="sxs-lookup"><span data-stu-id="88be8-124">To calculate chargeable utilization for a resource, you will need to complete some pre-requisites.</span></span> 
+<span data-ttu-id="7a675-124">若要計算資源的應收費使用率，您必須完成一些先決條件。</span><span class="sxs-lookup"><span data-stu-id="7a675-124">To calculate chargeable utilization for a resource, you will need to complete some pre-requisites.</span></span> 
 
-### <a name="set-default-role-for-individual-resource"></a><span data-ttu-id="88be8-125">設定個別資源的預設角色</span><span class="sxs-lookup"><span data-stu-id="88be8-125">Set default role for individual resource</span></span>
+### <a name="set-default-role-for-individual-resource"></a><span data-ttu-id="7a675-125">設定個別資源的預設角色</span><span class="sxs-lookup"><span data-stu-id="7a675-125">Set default role for individual resource</span></span>
 
-<span data-ttu-id="88be8-126">首先，必須對個別資源或資源角色設定目標使用率。</span><span class="sxs-lookup"><span data-stu-id="88be8-126">First, the target utilization must be set on either the individual resource or on resource roles.</span></span> <span data-ttu-id="88be8-127">如果您使用資源角色設定目標，則每項個別資源都必須有預設角色。</span><span class="sxs-lookup"><span data-stu-id="88be8-127">If you are using resource roles for targets, each individual resource must have a default role.</span></span> 
+<span data-ttu-id="7a675-126">首先，必須對個別資源或資源角色設定目標使用率。</span><span class="sxs-lookup"><span data-stu-id="7a675-126">First, the target utilization must be set on either the individual resource or on resource roles.</span></span> <span data-ttu-id="7a675-127">如果您使用資源角色設定目標，則每項個別資源都必須有預設角色。</span><span class="sxs-lookup"><span data-stu-id="7a675-127">If you are using resource roles for targets, each individual resource must have a default role.</span></span> 
 
-1. <span data-ttu-id="88be8-128">若要進行此設定，請移至 **資源**\>**資源**。</span><span class="sxs-lookup"><span data-stu-id="88be8-128">To set this, go to **Resources** \> **Resources**.</span></span> 
-2. <span data-ttu-id="88be8-129">選取資源、開啟記錄，然後選取 **Project Service** 索引標籤。</span><span class="sxs-lookup"><span data-stu-id="88be8-129">Select a resource, open the record, and then select the **Project Service** tab.</span></span> 
-3. <span data-ttu-id="88be8-130">在 **資源角色** 網格中，確定資源有一個角色，且 **是預設值** 已設定為 **是**。</span><span class="sxs-lookup"><span data-stu-id="88be8-130">In the **Resource Role** grid, make sure there’s one role for the resource and **Is Default** is set to **Yes**.</span></span>
+1. <span data-ttu-id="7a675-128">若要進行此設定，請移至 **資源**\>**資源**。</span><span class="sxs-lookup"><span data-stu-id="7a675-128">To set this, go to **Resources** \> **Resources**.</span></span> 
+2. <span data-ttu-id="7a675-129">選取資源、開啟記錄，然後選取 **Project Service** 索引標籤。</span><span class="sxs-lookup"><span data-stu-id="7a675-129">Select a resource, open the record, and then select the **Project Service** tab.</span></span> 
+3. <span data-ttu-id="7a675-130">在 **資源角色** 網格中，確定資源有一個角色，且 **是預設值** 已設定為 **是**。</span><span class="sxs-lookup"><span data-stu-id="7a675-130">In the **Resource Role** grid, make sure there’s one role for the resource and **Is Default** is set to **Yes**.</span></span>
  
-### <a name="change-billing-type-for-resource-role"></a><span data-ttu-id="88be8-131">變更資源角色的帳單類型</span><span class="sxs-lookup"><span data-stu-id="88be8-131">Change billing type for resource role</span></span>
+### <a name="change-billing-type-for-resource-role"></a><span data-ttu-id="7a675-131">變更資源角色的帳單類型</span><span class="sxs-lookup"><span data-stu-id="7a675-131">Change billing type for resource role</span></span>
 
-<span data-ttu-id="88be8-132">必須設定資源角色，才會有 **應收費** 的帳單類型。</span><span class="sxs-lookup"><span data-stu-id="88be8-132">The resource roles must be set to have a billing type of **Chargeable**.</span></span> 
+<span data-ttu-id="7a675-132">必須設定資源角色，才會有 **應收費** 的帳單類型。</span><span class="sxs-lookup"><span data-stu-id="7a675-132">The resource roles must be set to have a billing type of **Chargeable**.</span></span> 
 
-1. <span data-ttu-id="88be8-133">移至 **資源**\>**資源角色**。</span><span class="sxs-lookup"><span data-stu-id="88be8-133">Go to **Resources** \> **Resource Roles**.</span></span> 
-2. <span data-ttu-id="88be8-134">開啟要更新的記錄，然後將帳單類型設定為 **應收費**。</span><span class="sxs-lookup"><span data-stu-id="88be8-134">Open the record you want to update, and then set the billing type default to **Chargeable**.</span></span>
+1. <span data-ttu-id="7a675-133">移至 **資源**\>**資源角色**。</span><span class="sxs-lookup"><span data-stu-id="7a675-133">Go to **Resources** \> **Resource Roles**.</span></span> 
+2. <span data-ttu-id="7a675-134">開啟要更新的記錄，然後將帳單類型設定為 **應收費**。</span><span class="sxs-lookup"><span data-stu-id="7a675-134">Open the record you want to update, and then set the billing type default to **Chargeable**.</span></span>
 
-### <a name="set-working-hours-for-resource-role"></a><span data-ttu-id="88be8-135">設定資源角色的工作時數</span><span class="sxs-lookup"><span data-stu-id="88be8-135">Set working hours for resource role</span></span>
+### <a name="set-working-hours-for-resource-role"></a><span data-ttu-id="7a675-135">設定資源角色的工作時數</span><span class="sxs-lookup"><span data-stu-id="7a675-135">Set working hours for resource role</span></span>
  
-<span data-ttu-id="88be8-136">資源必須有工作時數，才能計算產能。</span><span class="sxs-lookup"><span data-stu-id="88be8-136">The resource must have working hours for the capacity calculation.</span></span> 
+<span data-ttu-id="7a675-136">資源必須有工作時數，才能計算產能。</span><span class="sxs-lookup"><span data-stu-id="7a675-136">The resource must have working hours for the capacity calculation.</span></span> 
 
-1. <span data-ttu-id="88be8-137">移至 **資源** \> **資源**。</span><span class="sxs-lookup"><span data-stu-id="88be8-137">Go to **Resources** \> **Resources**.</span></span> 
-2. <span data-ttu-id="88be8-138">選取要開啟記錄的資源，然後選取 **顯示工作時數**。</span><span class="sxs-lookup"><span data-stu-id="88be8-138">Select a resource to open the record, and then select **Show Work Hours**.</span></span> 
-3. <span data-ttu-id="88be8-139">您可套用 **資源清單** 檢視表的 **工作時數範本**，以大量更新資源清單。</span><span class="sxs-lookup"><span data-stu-id="88be8-139">You can bulk-update the list of resources by applying a **Work Hour Template** from the **Resource List** view.</span></span>
+1. <span data-ttu-id="7a675-137">移至 **資源** \> **資源**。</span><span class="sxs-lookup"><span data-stu-id="7a675-137">Go to **Resources** \> **Resources**.</span></span> 
+2. <span data-ttu-id="7a675-138">選取要開啟記錄的資源，然後選取 **顯示工作時數**。</span><span class="sxs-lookup"><span data-stu-id="7a675-138">Select a resource to open the record, and then select **Show Work Hours**.</span></span> 
+3. <span data-ttu-id="7a675-139">您可套用 **資源清單** 檢視表的 **工作時數範本**，以大量更新資源清單。</span><span class="sxs-lookup"><span data-stu-id="7a675-139">You can bulk-update the list of resources by applying a **Work Hour Template** from the **Resource List** view.</span></span>
 
-## <a name="troubleshooting-chargeable-actual-hours"></a><span data-ttu-id="88be8-140">應收費實際時數疑難排解</span><span class="sxs-lookup"><span data-stu-id="88be8-140">Troubleshooting chargeable actual hours</span></span>
+## <a name="troubleshooting-chargeable-actual-hours"></a><span data-ttu-id="7a675-140">應收費實際時數疑難排解</span><span class="sxs-lookup"><span data-stu-id="7a675-140">Troubleshooting chargeable actual hours</span></span>
 
-<span data-ttu-id="88be8-141">應收費實際時數的來源是 **實際值** 實體。</span><span class="sxs-lookup"><span data-stu-id="88be8-141">The chargeable actual hours are sourced from the **Actuals** entity.</span></span> <span data-ttu-id="88be8-142">帳單類型為 **應收費** 的實際值會納入計算，因此您必須有實際值為應收費的專案。</span><span class="sxs-lookup"><span data-stu-id="88be8-142">Actuals with a billing type of **Chargeable** are included in the calculation and, for this reason, you must have projects where the actuals that are chargeable.</span></span>
+<span data-ttu-id="7a675-141">應收費實際時數的來源是 **實際值** 實體。</span><span class="sxs-lookup"><span data-stu-id="7a675-141">The chargeable actual hours are sourced from the **Actuals** entity.</span></span> <span data-ttu-id="7a675-142">帳單類型為 **應收費** 的實際值會納入計算，因此您必須有實際值為應收費的專案。</span><span class="sxs-lookup"><span data-stu-id="7a675-142">Actuals with a billing type of **Chargeable** are included in the calculation and, for this reason, you must have projects where the actuals that are chargeable.</span></span>
 
-<span data-ttu-id="88be8-143">如果您沒有看到應收費使用率，以下是一些您可以檢查的項目：</span><span class="sxs-lookup"><span data-stu-id="88be8-143">If you are not seeing chargeable utilization, here are some things you can check:</span></span>
+<span data-ttu-id="7a675-143">如果您沒有看到應收費使用率，以下是一些您可以檢查的項目：</span><span class="sxs-lookup"><span data-stu-id="7a675-143">If you are not seeing chargeable utilization, here are some things you can check:</span></span>
 
-- <span data-ttu-id="88be8-144">資源有針對產能所定義的工作時數。</span><span class="sxs-lookup"><span data-stu-id="88be8-144">The resource has working hours defined for capacity.</span></span>
-- <span data-ttu-id="88be8-145">資源有個別定義的使用率目標，或是有指派給它的預設角色。</span><span class="sxs-lookup"><span data-stu-id="88be8-145">The resource has either an individually defined utilization target or has a default role assigned to it.</span></span> <span data-ttu-id="88be8-146">角色有其定義的使用率目標。</span><span class="sxs-lookup"><span data-stu-id="88be8-146">The role has a utilization target defined for it.</span></span>
-- <span data-ttu-id="88be8-147">實際值在您預期要進行使用率計算的期間有 **應收費** 的帳單類型。</span><span class="sxs-lookup"><span data-stu-id="88be8-147">Actuals have a billing type of **Chargeable** for the period you are expecting a utilization calculation for.</span></span> <span data-ttu-id="88be8-148">如果您看到帳單類型為 [應收費] 以外類型的實際值，請檢查下列項目：</span><span class="sxs-lookup"><span data-stu-id="88be8-148">Check the following if you are seeing actuals with billing types other than chargeable:</span></span>
+- <span data-ttu-id="7a675-144">資源有針對產能所定義的工作時數。</span><span class="sxs-lookup"><span data-stu-id="7a675-144">The resource has working hours defined for capacity.</span></span>
+- <span data-ttu-id="7a675-145">資源有個別定義的使用率目標，或是有指派給它的預設角色。</span><span class="sxs-lookup"><span data-stu-id="7a675-145">The resource has either an individually defined utilization target or has a default role assigned to it.</span></span> <span data-ttu-id="7a675-146">角色有其定義的使用率目標。</span><span class="sxs-lookup"><span data-stu-id="7a675-146">The role has a utilization target defined for it.</span></span>
+- <span data-ttu-id="7a675-147">實際值在您預期要進行使用率計算的期間有 **應收費** 的帳單類型。</span><span class="sxs-lookup"><span data-stu-id="7a675-147">Actuals have a billing type of **Chargeable** for the period you are expecting a utilization calculation for.</span></span> <span data-ttu-id="7a675-148">如果您看到帳單類型為 [應收費] 以外類型的實際值，請檢查下列項目：</span><span class="sxs-lookup"><span data-stu-id="7a675-148">Check the following if you are seeing actuals with billing types other than chargeable:</span></span>
 
-  - <span data-ttu-id="88be8-149">實際值上使用的角色有 [應收費] 以外的預設計費類型。</span><span class="sxs-lookup"><span data-stu-id="88be8-149">The role used on the actual has a default billing type of something other than chargeable.</span></span>
-  - <span data-ttu-id="88be8-150">支援專案的專案合約服務內容上的角色已設定為不應收費。</span><span class="sxs-lookup"><span data-stu-id="88be8-150">The role on the project contract line backing the project has been set to non-chargeable.</span></span>
-  - <span data-ttu-id="88be8-151">專案沒有相關聯的合約服務內容。</span><span class="sxs-lookup"><span data-stu-id="88be8-151">The project does not have an associated contract line.</span></span>
+  - <span data-ttu-id="7a675-149">實際值上使用的角色有 [應收費] 以外的預設計費類型。</span><span class="sxs-lookup"><span data-stu-id="7a675-149">The role used on the actual has a default billing type of something other than chargeable.</span></span>
+  - <span data-ttu-id="7a675-150">支援專案的專案合約服務內容上的角色已設定為不應收費。</span><span class="sxs-lookup"><span data-stu-id="7a675-150">The role on the project contract line backing the project has been set to non-chargeable.</span></span>
+  - <span data-ttu-id="7a675-151">專案沒有相關聯的合約服務內容。</span><span class="sxs-lookup"><span data-stu-id="7a675-151">The project does not have an associated contract line.</span></span>
 

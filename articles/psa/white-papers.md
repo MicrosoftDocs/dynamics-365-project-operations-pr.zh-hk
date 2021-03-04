@@ -18,28 +18,30 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 34018fb918b3d97d4f44b2f9b6f4296f38afa0ac
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: dc6fb5c195d98bc3808383a8ec059d675d6cff3b
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4118635"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147005"
 ---
-# <a name="white-papers-for-project-service"></a><span data-ttu-id="71a0d-103">Project Service 白皮書</span><span class="sxs-lookup"><span data-stu-id="71a0d-103">White papers for Project Service</span></span>
+# <a name="white-papers-for-project-service"></a><span data-ttu-id="f80ea-103">Project Service 白皮書</span><span class="sxs-lookup"><span data-stu-id="f80ea-103">White papers for Project Service</span></span>
 
-<span data-ttu-id="71a0d-104">這些白皮書的設計在於提供 [!INCLUDE[pn_crm_shortest](../includes/pn-crm-shortest.md)] Project Service Automation 的進一步資訊。</span><span class="sxs-lookup"><span data-stu-id="71a0d-104">These white papers are designed to provide in-depth information for [!INCLUDE[pn_crm_shortest](../includes/pn-crm-shortest.md)] project service automation.</span></span>
+[!include [banner](../includes/psa-now-project-operations.md)]
 
--   [<span data-ttu-id="71a0d-105">Project Service 外部系統整合</span><span class="sxs-lookup"><span data-stu-id="71a0d-105">External system integration for project service</span></span>](https://go.microsoft.com/fwlink/?LinkId=825445)
+<span data-ttu-id="f80ea-104">這些白皮書的設計在於提供 [!INCLUDE[pn_crm_shortest](../includes/pn-crm-shortest.md)] Project Service Automation 的進一步資訊。</span><span class="sxs-lookup"><span data-stu-id="f80ea-104">These white papers are designed to provide in-depth information for [!INCLUDE[pn_crm_shortest](../includes/pn-crm-shortest.md)] project service automation.</span></span>
 
--   [<span data-ttu-id="71a0d-106">Project Service 報價、定價及帳單的基本指南</span><span class="sxs-lookup"><span data-stu-id="71a0d-106">Basic guide to quoting, pricing, and billing for project service</span></span>](https://go.microsoft.com/fwlink/?LinkId=825241)
+-   [<span data-ttu-id="f80ea-105">Project Service 外部系統整合</span><span class="sxs-lookup"><span data-stu-id="f80ea-105">External system integration for project service</span></span>](https://go.microsoft.com/fwlink/?LinkId=825445)
 
--   [<span data-ttu-id="71a0d-107">Project Service 報價、定價及帳單的進階指南</span><span class="sxs-lookup"><span data-stu-id="71a0d-107">Advanced guide to quoting, pricing, and billing for project service</span></span>](https://go.microsoft.com/fwlink/?LinkId=825242)
+-   [<span data-ttu-id="f80ea-106">Project Service 報價、定價及帳單的基本指南</span><span class="sxs-lookup"><span data-stu-id="f80ea-106">Basic guide to quoting, pricing, and billing for project service</span></span>](https://go.microsoft.com/fwlink/?LinkId=825241)
 
--   [<span data-ttu-id="71a0d-108">Project Service 專案規劃和追蹤指南</span><span class="sxs-lookup"><span data-stu-id="71a0d-108">Guide to project planning and tracking for project service</span></span>](https://go.microsoft.com/fwlink/?LinkId=825243)
+-   [<span data-ttu-id="f80ea-107">Project Service 報價、定價及帳單的進階指南</span><span class="sxs-lookup"><span data-stu-id="f80ea-107">Advanced guide to quoting, pricing, and billing for project service</span></span>](https://go.microsoft.com/fwlink/?LinkId=825242)
 
--   [<span data-ttu-id="71a0d-109">Project Service 報表</span><span class="sxs-lookup"><span data-stu-id="71a0d-109">Reporting for project service</span></span>](https://go.microsoft.com/fwlink/?LinkId=825446)
+-   [<span data-ttu-id="f80ea-108">Project Service 專案規劃和追蹤指南</span><span class="sxs-lookup"><span data-stu-id="f80ea-108">Guide to project planning and tracking for project service</span></span>](https://go.microsoft.com/fwlink/?LinkId=825243)
 
--   [<span data-ttu-id="71a0d-110">Project Service 資源管理</span><span class="sxs-lookup"><span data-stu-id="71a0d-110">Resource management for project service</span></span>](https://go.microsoft.com/fwlink/?LinkId=825244)
+-   [<span data-ttu-id="f80ea-109">Project Service 報表</span><span class="sxs-lookup"><span data-stu-id="f80ea-109">Reporting for project service</span></span>](https://go.microsoft.com/fwlink/?LinkId=825446)
 
-### <a name="see-also"></a><span data-ttu-id="71a0d-111">請參閱</span><span class="sxs-lookup"><span data-stu-id="71a0d-111">See Also</span></span>
- [<span data-ttu-id="71a0d-112">Project Service 概觀</span><span class="sxs-lookup"><span data-stu-id="71a0d-112">Overview of Project Service</span></span>](../psa/overview.md)
+-   [<span data-ttu-id="f80ea-110">Project Service 資源管理</span><span class="sxs-lookup"><span data-stu-id="f80ea-110">Resource management for project service</span></span>](https://go.microsoft.com/fwlink/?LinkId=825244)
+
+### <a name="see-also"></a><span data-ttu-id="f80ea-111">請參閱</span><span class="sxs-lookup"><span data-stu-id="f80ea-111">See Also</span></span>
+ [<span data-ttu-id="f80ea-112">Project Service 概觀</span><span class="sxs-lookup"><span data-stu-id="f80ea-112">Overview of Project Service</span></span>](../psa/overview.md)
