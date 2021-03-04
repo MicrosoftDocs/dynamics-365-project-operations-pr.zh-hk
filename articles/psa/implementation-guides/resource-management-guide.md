@@ -18,27 +18,29 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 3b1f195cf712862972e6b52d1529089ccd52c775
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: a0a12840f7f53cab0e81a5d3764d5c1a9d4df6a3
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4132540"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5149075"
 ---
-# <a name="resource-management-guide"></a><span data-ttu-id="f28f4-103">資源管理員指南</span><span class="sxs-lookup"><span data-stu-id="f28f4-103">Resource management guide</span></span>
+# <a name="resource-management-guide"></a><span data-ttu-id="51a55-103">資源管理員指南</span><span class="sxs-lookup"><span data-stu-id="51a55-103">Resource management guide</span></span>
+
+[!include [banner](../../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../../includes/cc-applies-to-psa-app-3x.md)]
 
-<span data-ttu-id="f28f4-104">先前在本主題中的 PDF 連結已移除，內容移至下列主題：</span><span class="sxs-lookup"><span data-stu-id="f28f4-104">The PDF link that was previously in this topic has been removed and the content has been moved to the following topics:</span></span>
+<span data-ttu-id="51a55-104">先前在本主題中的 PDF 連結已移除，內容移至下列主題：</span><span class="sxs-lookup"><span data-stu-id="51a55-104">The PDF link that was previously in this topic has been removed and the content has been moved to the following topics:</span></span>
 
-- [<span data-ttu-id="f28f4-105">資源管理首頁</span><span class="sxs-lookup"><span data-stu-id="f28f4-105">Resource management home page</span></span>](../resource-management-home-page.md)
-- [<span data-ttu-id="f28f4-106">重要概念</span><span class="sxs-lookup"><span data-stu-id="f28f4-106">Key concepts</span></span>](../reports-key-concepts.md)
-- [<span data-ttu-id="f28f4-107">履行資源要求</span><span class="sxs-lookup"><span data-stu-id="f28f4-107">Fulfilling resource requests</span></span>](../resource-management-fulfill-requests.md)
-- [<span data-ttu-id="f28f4-108">建議資源</span><span class="sxs-lookup"><span data-stu-id="f28f4-108">Proposing resources</span></span>](../resource-management-propose-resources.md)
-- [<span data-ttu-id="f28f4-109">預約資源</span><span class="sxs-lookup"><span data-stu-id="f28f4-109">Booking resources</span></span>](../resource-management-book-resources-scheduleboard.md)
-- [<span data-ttu-id="f28f4-110">未確認預約需求</span><span class="sxs-lookup"><span data-stu-id="f28f4-110">Soft-book requirements</span></span>](../resource-management-softbook-requirements.md)
-- [<span data-ttu-id="f28f4-111">技能和熟練度模型</span><span class="sxs-lookup"><span data-stu-id="f28f4-111">Skills and proficiency models</span></span>](../resource-management-skills-proficiency.md)
-- [<span data-ttu-id="f28f4-112">資源管理常見問題集</span><span class="sxs-lookup"><span data-stu-id="f28f4-112">Resource management FAQ</span></span>](../resource-management-faq.md)
+- [<span data-ttu-id="51a55-105">資源管理首頁</span><span class="sxs-lookup"><span data-stu-id="51a55-105">Resource management home page</span></span>](../resource-management-home-page.md)
+- [<span data-ttu-id="51a55-106">重要概念</span><span class="sxs-lookup"><span data-stu-id="51a55-106">Key concepts</span></span>](../reports-key-concepts.md)
+- [<span data-ttu-id="51a55-107">履行資源要求</span><span class="sxs-lookup"><span data-stu-id="51a55-107">Fulfilling resource requests</span></span>](../resource-management-fulfill-requests.md)
+- [<span data-ttu-id="51a55-108">建議資源</span><span class="sxs-lookup"><span data-stu-id="51a55-108">Proposing resources</span></span>](../resource-management-propose-resources.md)
+- [<span data-ttu-id="51a55-109">預約資源</span><span class="sxs-lookup"><span data-stu-id="51a55-109">Booking resources</span></span>](../resource-management-book-resources-scheduleboard.md)
+- [<span data-ttu-id="51a55-110">未確認預約需求</span><span class="sxs-lookup"><span data-stu-id="51a55-110">Soft-book requirements</span></span>](../resource-management-softbook-requirements.md)
+- [<span data-ttu-id="51a55-111">技能和熟練度模型</span><span class="sxs-lookup"><span data-stu-id="51a55-111">Skills and proficiency models</span></span>](../resource-management-skills-proficiency.md)
+- [<span data-ttu-id="51a55-112">資源管理常見問題集</span><span class="sxs-lookup"><span data-stu-id="51a55-112">Resource management FAQ</span></span>](../resource-management-faq.md)
 
 > [!NOTE]
-> <span data-ttu-id="f28f4-113">本主題將會在日後的文件更新中移除。</span><span class="sxs-lookup"><span data-stu-id="f28f4-113">This topic will be removed in a future documentation update.</span></span> 
+> <span data-ttu-id="51a55-113">本主題將會在日後的文件更新中移除。</span><span class="sxs-lookup"><span data-stu-id="51a55-113">This topic will be removed in a future documentation update.</span></span> 
