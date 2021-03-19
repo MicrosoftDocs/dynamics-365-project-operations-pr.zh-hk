@@ -18,37 +18,40 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6873dfc1765beb61ebbdcb2a411a0c9979714cef
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: e170adcc87ac69e31a00c85aefa718cc316dbd5a
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5149165"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5284430"
 ---
-# <a name="basic-guide-to-quoting-pricing-and-billing"></a><span data-ttu-id="14765-103">報價、定價和帳務的基本指南</span><span class="sxs-lookup"><span data-stu-id="14765-103">Basic guide to quoting, pricing and billing</span></span>
+# <a name="basic-guide-to-quoting-pricing-and-billing"></a><span data-ttu-id="32ce9-103">報價、定價和帳務的基本指南</span><span class="sxs-lookup"><span data-stu-id="32ce9-103">Basic guide to quoting, pricing and billing</span></span>
 
 [!include [banner](../../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../../includes/cc-applies-to-psa-app-3x.md)]
 
-<span data-ttu-id="14765-104">能夠在適當時間找到適當資源、在專案上預約這些資源以及確保資源獲得利用，可協助組織達到營收目標和客戶滿意度目標。</span><span class="sxs-lookup"><span data-stu-id="14765-104">The ability to find the right resources at the right time, book those resources on projects, and keep resources utilized helps organizations meet revenue targets and customer satisfaction goals.</span></span> 
+<span data-ttu-id="32ce9-104">能夠在適當時間找到適當資源、在專案上預約這些資源以及確保資源獲得利用，可協助組織達到營收目標和客戶滿意度目標。</span><span class="sxs-lookup"><span data-stu-id="32ce9-104">The ability to find the right resources at the right time, book those resources on projects, and keep resources utilized helps organizations meet revenue targets and customer satisfaction goals.</span></span> 
 
-<span data-ttu-id="14765-105">先前在本主題中的 PDF 連結已移除，內容移至下列主題：</span><span class="sxs-lookup"><span data-stu-id="14765-105">The PDF link that was previously in this topic has been removed and the content has been moved to the following topics:</span></span>
+<span data-ttu-id="32ce9-105">先前在本主題中的 PDF 連結已移除，內容移至下列主題：</span><span class="sxs-lookup"><span data-stu-id="32ce9-105">The PDF link that was previously in this topic has been removed and the content has been moved to the following topics:</span></span>
 
-- [<span data-ttu-id="14765-106">報價、定價和帳務</span><span class="sxs-lookup"><span data-stu-id="14765-106">Quoting, pricing, and billing</span></span>](../quote-bill-price.md)
-- [<span data-ttu-id="14765-107">銷售處理</span><span class="sxs-lookup"><span data-stu-id="14765-107">Sales processes</span></span>](../basic-sales-process.md)
-- [<span data-ttu-id="14765-108">報價和報價明細</span><span class="sxs-lookup"><span data-stu-id="14765-108">Quotes and quote lines</span></span>](../basic-quote-lines.md)
-- [<span data-ttu-id="14765-109">產品型報價明細</span><span class="sxs-lookup"><span data-stu-id="14765-109">Product-based quote lines</span></span>](../product-based-quote-lines.md)
-- [<span data-ttu-id="14765-110">定價</span><span class="sxs-lookup"><span data-stu-id="14765-110">Pricing</span></span>](../basic-pricing.md)
-- [<span data-ttu-id="14765-111">產品類別目錄定價</span><span class="sxs-lookup"><span data-stu-id="14765-111">Product catalog pricing</span></span>](../product-catalog-pricing.md)
-- [<span data-ttu-id="14765-112">商務交易</span><span class="sxs-lookup"><span data-stu-id="14765-112">Business transactions</span></span>](../basic-business-transactions.md)
-- [<span data-ttu-id="14765-113">估計值</span><span class="sxs-lookup"><span data-stu-id="14765-113">Estimates</span></span>](../estimates.md)
-- [<span data-ttu-id="14765-114">實際值</span><span class="sxs-lookup"><span data-stu-id="14765-114">Actuals</span></span>](../actuals.md)
-- [<span data-ttu-id="14765-115">分析專案報價</span><span class="sxs-lookup"><span data-stu-id="14765-115">Analyzing project quotes</span></span>](../basic-analyzing-quotes.md)
-- [<span data-ttu-id="14765-116">組織單位</span><span class="sxs-lookup"><span data-stu-id="14765-116">Organizational units</span></span>](../advanced-organizational.md)
-- [<span data-ttu-id="14765-117">單位群組和單位</span><span class="sxs-lookup"><span data-stu-id="14765-117">Unit groups and units</span></span>](../advanced-units.md)
-- [<span data-ttu-id="14765-118">多重貨幣案例</span><span class="sxs-lookup"><span data-stu-id="14765-118">Multi-currency scenarios</span></span>](../advanced-currency.md)
-- [<span data-ttu-id="14765-119">記錄實際值</span><span class="sxs-lookup"><span data-stu-id="14765-119">Recording actuals</span></span>](../advanced-actuals.md)
+- [<span data-ttu-id="32ce9-106">報價、定價和帳務</span><span class="sxs-lookup"><span data-stu-id="32ce9-106">Quoting, pricing, and billing</span></span>](../quote-bill-price.md)
+- [<span data-ttu-id="32ce9-107">銷售處理</span><span class="sxs-lookup"><span data-stu-id="32ce9-107">Sales processes</span></span>](../basic-sales-process.md)
+- [<span data-ttu-id="32ce9-108">報價和報價明細</span><span class="sxs-lookup"><span data-stu-id="32ce9-108">Quotes and quote lines</span></span>](../basic-quote-lines.md)
+- [<span data-ttu-id="32ce9-109">產品型報價明細</span><span class="sxs-lookup"><span data-stu-id="32ce9-109">Product-based quote lines</span></span>](../product-based-quote-lines.md)
+- [<span data-ttu-id="32ce9-110">定價</span><span class="sxs-lookup"><span data-stu-id="32ce9-110">Pricing</span></span>](../basic-pricing.md)
+- [<span data-ttu-id="32ce9-111">產品類別目錄定價</span><span class="sxs-lookup"><span data-stu-id="32ce9-111">Product catalog pricing</span></span>](../product-catalog-pricing.md)
+- [<span data-ttu-id="32ce9-112">商務交易</span><span class="sxs-lookup"><span data-stu-id="32ce9-112">Business transactions</span></span>](../basic-business-transactions.md)
+- [<span data-ttu-id="32ce9-113">估計值</span><span class="sxs-lookup"><span data-stu-id="32ce9-113">Estimates</span></span>](../estimates.md)
+- [<span data-ttu-id="32ce9-114">實際值</span><span class="sxs-lookup"><span data-stu-id="32ce9-114">Actuals</span></span>](../actuals.md)
+- [<span data-ttu-id="32ce9-115">分析專案報價</span><span class="sxs-lookup"><span data-stu-id="32ce9-115">Analyzing project quotes</span></span>](../basic-analyzing-quotes.md)
+- [<span data-ttu-id="32ce9-116">組織單位</span><span class="sxs-lookup"><span data-stu-id="32ce9-116">Organizational units</span></span>](../advanced-organizational.md)
+- [<span data-ttu-id="32ce9-117">單位群組和單位</span><span class="sxs-lookup"><span data-stu-id="32ce9-117">Unit groups and units</span></span>](../advanced-units.md)
+- [<span data-ttu-id="32ce9-118">多重貨幣案例</span><span class="sxs-lookup"><span data-stu-id="32ce9-118">Multi-currency scenarios</span></span>](../advanced-currency.md)
+- [<span data-ttu-id="32ce9-119">記錄實際值</span><span class="sxs-lookup"><span data-stu-id="32ce9-119">Recording actuals</span></span>](../advanced-actuals.md)
 
 > [!NOTE]
-> <span data-ttu-id="14765-120">本主題將會在日後的文件更新中移除。</span><span class="sxs-lookup"><span data-stu-id="14765-120">This topic will be removed in a future documentation update.</span></span> 
+> <span data-ttu-id="32ce9-120">本主題將會在日後的文件更新中移除。</span><span class="sxs-lookup"><span data-stu-id="32ce9-120">This topic will be removed in a future documentation update.</span></span> 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]
