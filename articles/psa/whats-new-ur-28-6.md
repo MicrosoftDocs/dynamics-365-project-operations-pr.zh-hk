@@ -17,29 +17,29 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c2389aa2249ae33333a1a8e241de225f43d70899
-ms.sourcegitcommit: 24528bb9c0ef8898077cb3bc672daa211c0e73aa
+ms.openlocfilehash: 9f6eba5e50f167ef96268c7c99798e248b48ff0f
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "5481340"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948653"
 ---
-# <a name="whats-new-or-changed-in-project-service-automation-update-release-286-v3"></a><span data-ttu-id="71428-103">Project Service Automation V3 更新版本 28.6 的新功能或變更內容</span><span class="sxs-lookup"><span data-stu-id="71428-103">What's new or changed in Project Service Automation Update Release 28.6, V3</span></span>
+# <a name="whats-new-or-changed-in-project-service-automation-update-release-286-v3"></a><span data-ttu-id="fb709-103">Project Service Automation V3 更新版本 28.6 的新功能或變更內容</span><span class="sxs-lookup"><span data-stu-id="fb709-103">What's new or changed in Project Service Automation Update Release 28.6, V3</span></span>
 
-<span data-ttu-id="71428-104">我們很高興地宣佈 Dynamics 365 的 Project Service Automation 應用程式的最新更新。</span><span class="sxs-lookup"><span data-stu-id="71428-104">We’re pleased to announce the latest update for the Project Service Automation application for Dynamics 365.</span></span> <span data-ttu-id="71428-105">此版本包含一些對品質、效能和可用性的重要改進。</span><span class="sxs-lookup"><span data-stu-id="71428-105">This release includes some important improvements to quality, performance, and usability.</span></span> <span data-ttu-id="71428-106">此版本與 Dynamics 365 9. x 相容。</span><span class="sxs-lookup"><span data-stu-id="71428-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="71428-107">若要更新至此版本，請前往 Dynamics 365 online 系統管理中心，請移至解決方案頁面以安裝更新。</span><span class="sxs-lookup"><span data-stu-id="71428-107">To update to this release, visit the Admin Center for Dynamics 365 online solutions page to install the update.</span></span> <span data-ttu-id="71428-108">如需詳細資訊，請參閱[安裝、更新或移除偏好的解決方案](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution)。</span><span class="sxs-lookup"><span data-stu-id="71428-108">For more information, see [Install, update, or remove a preferred solution](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).</span></span>
+<span data-ttu-id="fb709-104">我們很高興地宣佈 Dynamics 365 的 Project Service Automation 應用程式的最新更新。</span><span class="sxs-lookup"><span data-stu-id="fb709-104">We’re pleased to announce the latest update for the Project Service Automation application for Dynamics 365.</span></span> <span data-ttu-id="fb709-105">此版本包含一些對品質、效能和可用性的重要改進。</span><span class="sxs-lookup"><span data-stu-id="fb709-105">This release includes some important improvements to quality, performance, and usability.</span></span> <span data-ttu-id="fb709-106">此版本與 Dynamics 365 9. x 相容。</span><span class="sxs-lookup"><span data-stu-id="fb709-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="fb709-107">若要更新至此版本，請前往 Dynamics 365 online 系統管理中心，請移至解決方案頁面以安裝更新。</span><span class="sxs-lookup"><span data-stu-id="fb709-107">To update to this release, visit the Admin Center for Dynamics 365 online solutions page to install the update.</span></span> <span data-ttu-id="fb709-108">如需詳細資訊，請參閱[安裝、更新或移除偏好的解決方案](/power-platform/admin/install-remove-preferred-solution)。</span><span class="sxs-lookup"><span data-stu-id="fb709-108">For more information, see [Install, update, or remove a preferred solution](/power-platform/admin/install-remove-preferred-solution).</span></span>
 
-<span data-ttu-id="71428-109">本主題列出 Project Service Automation V3 更新版本 28.6 新推出或已變更的功能及修正。</span><span class="sxs-lookup"><span data-stu-id="71428-109">This topic lists the features and fixes that are new or changed for Project Service Automation V3, Update Release 28.6.</span></span> <span data-ttu-id="71428-110">此版本的組建編號為 V3.10.46.147，已於 2021 年 1 月透過自我更新正式推出。</span><span class="sxs-lookup"><span data-stu-id="71428-110">This version has a build number of V3.10.46.147 and is generally available through a self-update in January 2021.</span></span>
+<span data-ttu-id="fb709-109">本主題列出 Project Service Automation V3 更新版本 28.6 新推出或已變更的功能及修正。</span><span class="sxs-lookup"><span data-stu-id="fb709-109">This topic lists the features and fixes that are new or changed for Project Service Automation V3, Update Release 28.6.</span></span> <span data-ttu-id="fb709-110">此版本的組建編號為 V3.10.46.147，已於 2021 年 1 月透過自我更新正式推出。</span><span class="sxs-lookup"><span data-stu-id="fb709-110">This version has a build number of V3.10.46.147 and is generally available through a self-update in January 2021.</span></span>
 
-## <a name="update-release-286"></a><span data-ttu-id="71428-111">更新版本 28.6</span><span class="sxs-lookup"><span data-stu-id="71428-111">Update Release 28.6</span></span>
+## <a name="update-release-286"></a><span data-ttu-id="fb709-111">更新版本 28.6</span><span class="sxs-lookup"><span data-stu-id="fb709-111">Update Release 28.6</span></span>
 
-### <a name="bug-fixes"></a><span data-ttu-id="71428-112">Bug 修正</span><span class="sxs-lookup"><span data-stu-id="71428-112">Bug fixes</span></span>
+### <a name="bug-fixes"></a><span data-ttu-id="fb709-112">Bug 修正</span><span class="sxs-lookup"><span data-stu-id="fb709-112">Bug fixes</span></span>
 
 
-<span data-ttu-id="71428-113">**資源管理**</span><span class="sxs-lookup"><span data-stu-id="71428-113">**Resource Management**</span></span>
+<span data-ttu-id="fb709-113">**資源管理**</span><span class="sxs-lookup"><span data-stu-id="fb709-113">**Resource Management**</span></span>
 
-<span data-ttu-id="71428-114">下列問題已獲修正：</span><span class="sxs-lookup"><span data-stu-id="71428-114">The following issues have been fixed:</span></span>
+<span data-ttu-id="fb709-114">下列問題已獲修正：</span><span class="sxs-lookup"><span data-stu-id="fb709-114">The following issues have been fixed:</span></span>
 
-- <span data-ttu-id="71428-115">尋找資源可用性時，會針對每個尚未套用行事曆規則的資源呼叫 **ExpandCalendar**。</span><span class="sxs-lookup"><span data-stu-id="71428-115">When finding resource availability, **ExpandCalendar** is called for each resource that has no calendar rules applied.</span></span>
+- <span data-ttu-id="fb709-115">尋找資源可用性時，會針對每個尚未套用行事曆規則的資源呼叫 **ExpandCalendar**。</span><span class="sxs-lookup"><span data-stu-id="fb709-115">When finding resource availability, **ExpandCalendar** is called for each resource that has no calendar rules applied.</span></span>
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
