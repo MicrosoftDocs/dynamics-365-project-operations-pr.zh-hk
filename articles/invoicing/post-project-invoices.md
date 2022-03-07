@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: fbc1519b6cbcf231cfa89df8b7843d11a8904e49
-ms.sourcegitcommit: b4298ca4729643c1040ef35dde8c67f829461ce7
+ms.openlocfilehash: 9dc424cf69abfccc10bf551272a14e5cefb3dff0
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "5114754"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5275835"
 ---
 # <a name="invoicing-process-overview"></a>發票開立程序概觀
 
@@ -30,3 +30,6 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations_
 您可以[手動建立預估發票](../proforma-invoicing/create-manual-proforma-invoice.md)，或使用[週期程序](../proforma-invoicing/configure-automated-invoice-creation.md)。 專案經理可以視需要[調整草稿預估發票](../proforma-invoicing/manage-proforma-invoice.md)，然後確認該發票。
 
 確認的預估發票會傳送至 Finance 中的 **專案管理與會計** 模組。 專案會計師會對專案發票提案進行格式化和更新，然後將此憑證過帳並加以列印。 已過帳的專案發票會記錄在總帳以及客戶和專案的子分類帳中。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

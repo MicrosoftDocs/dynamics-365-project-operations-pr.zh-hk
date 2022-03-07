@@ -1,6 +1,8 @@
 ---
 title: 如何自訂專案階段商務程序流程？
 description: 有關如何自訂專案階段商務程序流程的概觀。
+manager: kfend
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/11/2018
@@ -16,17 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 2e6c60fe67aea908013077bde40c2faeabc2f39e
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 2dccc33088cd9e49e7ffe609f9d9754ef33a5dba
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5993173"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4087686"
 ---
 # <a name="how-do-i-customize-the-project-stages-business-process-flow"></a>如何自訂專案階段商務程序流程？
-
-[!include [banner](../includes/psa-now-project-operations.md)]
-
 [!INCLUDE[cc-applies-to-psa-app-2-4x-9-0-platform](../includes/cc-applies-to-psa-app-2-4x-9-0-platform.md)]
 [!INCLUDE[cc-applies-to-psa-app-1x-8-2-platform](../includes/cc-applies-to-psa-app-1x-8-2-platform.md)]
 
@@ -105,6 +104,3 @@ ms.locfileid: "5993173"
 
    ![修改專案實體的檢視表的螢幕擷取畫面](media/FAQ-Customize-BPF-8-720.png)
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

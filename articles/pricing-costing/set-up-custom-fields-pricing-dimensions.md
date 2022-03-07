@@ -6,7 +6,7 @@ manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: rumant
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 744c561d023d7ef5ed79947e69f2de8a3902fb41
-ms.sourcegitcommit: 13a4e58eddbb0f81aca07c1ff452c420dbd8a68f
+ms.openlocfilehash: 087950c9639a95868a20d71286dfad4437555108
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "4650255"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4087495"
 ---
 # <a name="set-up-custom-fields-as-pricing-dimensions"></a>將自訂欄位設定為定價維度
 
@@ -41,15 +41,9 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations、精簡
 若要讓欄位變成定價維度，該欄位必須：
 
 - 建立為 **角色價格** 和 **角色價格加成** 實體中的欄位。 如需執行此動作的詳細資訊，請參[將自訂欄位新增至價格設定與交易實體](add-custom-fields-price-setup-transactional-entities.md)。
-
 - 建立為 **定價維度** 表格中的一列。 例如，新增如下圖形所示的定價維度列。 
 
-![以金額為準的定價維度列](media/Amt-based-PD.png)
-
 資源工作時數 (**msdyn_resourceworkhours**) 已新增為以加成為準的定價維度，並已新增至 **以加成為準的定價維度** 索引標籤上的網格。
-
-![以加成為準的定價維度列](media/Markup-based-PD.png)
-
 
 > [!IMPORTANT]
 > 任何對此表格中定價維度資料 (現有或新增) 的變更，只有在重新整理快取之後，才會傳播至定價商務規則。 快取重新整理時間可能需要長達 10 分鐘。 請等待這段時間過後，再查看必須從定價維度資料變更產生之價格預設邏輯中的變更。

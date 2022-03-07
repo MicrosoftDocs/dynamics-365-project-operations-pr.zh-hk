@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: c7ec9360401bf214ae867769b0e48e545a6bad48
-ms.sourcegitcommit: 64d0de964a9b66c015ffcf1db62cbb6216cb3187
+ms.openlocfilehash: f8e9bce6612e617785264470b7946ffc4795a621
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "4367293"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5291871"
 ---
 # <a name="whats-new-november-2020---project-operations-for-resourcenon-stocked-based-scenarios"></a>2020 年 11 月 - 資源/非庫存型案例適用的 Project Operations 新增功能
 
@@ -68,3 +68,6 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations_
 
 ### <a name="regulatory-updates"></a>法規更新
 如需 Finance and Operations 應用程式的法規更新資訊，請參閱[法規更新](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates)。 您也可以使用問題搜尋工具登入 LCS 並查看計畫的法規更新。 問題搜尋可讓您依國家/地區、功能類型和版本進行搜尋。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

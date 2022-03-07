@@ -2,6 +2,8 @@
 title: 資源預約以及其與工作指派有何關聯
 description: 本主題提供有關如何管理具名資源、資源預約和工作指派，以及其彼此之間有何關聯的資訊。
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 9/27/2019
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 72c741d8a0644589004ba20afbcd0baff7cfcb06
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 0e4eea87bfb059a3c0be8ccbd2914a4d6c3cf46b
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5993218"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5149975"
 ---
 # <a name="resource-bookings-and-how-they-relate-to-task-assignments"></a>資源預約以及其與工作指派有何關聯
 
@@ -66,6 +68,3 @@ ms.locfileid: "5993218"
 > [!NOTE]
 > 如果您移動您已自行設定分佈的工作，則無法保留這些分佈。 分佈會依據專案行事曆重新產生，以因應工作時數變更和假日需求。 這是特意設計的，因為系統並不了解原始分佈的意圖，也無法判斷在新時段保留該分佈是否合理。 由於預約和指派已中斷聯繫，因此預約會保留原始預約分佈。 在這種情況下，您必須取消預約然後重新預約到新的指派分佈。
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

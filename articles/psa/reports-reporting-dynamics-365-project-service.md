@@ -3,7 +3,7 @@ title: 報表首頁
 description: 本主題提供有關 Dynamics 365 Project Service Automation 中報表的資訊。
 author: ruhercul
 manager: kfend
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,16 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 25486b0c153842cab4331f27eea4872f848bea50
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 30411818bdc1b370a71148cf79f743413167dab2
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147725"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4087727"
 ---
 # <a name="reporting-home-page"></a>報表首頁
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 

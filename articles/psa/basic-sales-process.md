@@ -2,8 +2,6 @@
 title: 銷售處理
 description: 本主題提供有關基本銷售處理的資訊。
 author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 2561a54af6bdb9764a318f012fdc53f7b3298893
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 5f01ba14baa0a2378b0a230a46aed3a682342ce6
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5145205"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6014233"
 ---
 # <a name="sales-processes"></a>銷售處理
 
@@ -93,3 +91,6 @@ ms.locfileid: "5145205"
 
 ## <a name="tracking-comments-and-approvals-of-quotes-and-project-contracts"></a>追蹤報價與專案合約的註解和核准
 您可以使用記錄留言板和文章來管理報價與專案合約的審查與核准。 您的組織可以建立自訂工作流程和外掛程式，以指派、重新導向、上呈和管理審查及核准工作項目的通知。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

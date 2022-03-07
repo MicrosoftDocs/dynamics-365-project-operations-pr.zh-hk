@@ -3,7 +3,7 @@ title: 套用行事曆至資源
 description: 如何套用行事曆至 Project Service 中的資源
 author: rumant
 manager: kfend
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,16 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 94c646db684525cdc71bd935643a3b7ee2d40ea7
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 69427581f606783ed2b159dd6627481a2229a707
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5145520"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4087700"
 ---
 # <a name="apply-a-calendar-to-a-resource-project-service"></a>套用行事曆至資源 (Project Service)
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 

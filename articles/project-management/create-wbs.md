@@ -2,18 +2,16 @@
 title: 建立分工結構圖
 description: 本主題說明如何在新的排程介面中建立包含基本控制項的分工結構圖 (WBS)。
 author: ruhercul
-manager: tfehr
 ms.date: 01/07/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: d7fa645e78d2206e333d9f85fcec0f7a9c213c23
-ms.sourcegitcommit: 260ce052fed760bb44c514517806049ca13a5459
+ms.openlocfilehash: ac3facacd95e5e677635cb037d0d3458da612410
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "4841424"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6005728"
 ---
 # <a name="create-a-work-breakdown-structure-wbs"></a>建立分工結構圖 (WBS)
 
@@ -93,6 +91,8 @@ ms.locfileid: "4841424"
 | 名字 | 工作的名稱。 |
 | 識別碼 | 分工結構圖中工作的識別碼。 |
 
+身為管理員，您可以在工作實體上定義自訂欄位。 不過，這些欄位無法顯示在排程網格上。 若要查看您的自訂欄位，請將其新增至 **專案工作** 詳細資料頁面。
+
 ## <a name="staffing-attributes"></a>人員配置屬性
 
 人員配置屬性可以透過排程中的 **資源** 欄位來存取。 您可以搜尋現有的資源，或者選取 **快速建立** 窗格中的 **建立**，將專案團隊成員新增為新資源。
@@ -116,3 +116,6 @@ ms.locfileid: "4841424"
 ## <a name="accessibility-and-keyboard-shortcuts"></a>協助工具和鍵盤快速鍵
 
 **排程** 網格完全可供存取，並且可與朗讀程式、JAWS 或 NVDA 等螢幕助讀程式搭配使用。 您可以使用方向鍵在網格區域中穿行 (如同在 Microsoft Excel 中)、可以使用 Tab 鍵前進通過互動式使用者介面元素，並且可以使用向下鍵、Enter 鍵或空格鍵來選取和開啟下拉式功能表。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

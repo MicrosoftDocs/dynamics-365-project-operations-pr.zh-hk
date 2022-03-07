@@ -2,22 +2,20 @@
 title: 註冊預覽版訂閱 - 精簡
 description: 本主題提供有關如何訂閱和部署「Project Operations Lite 部署 – 交易至開立預估發票」的資訊。
 author: sigitac
-manager: Annbe
 ms.date: 10/07/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 6f4360b7febab57b97df0776ef9148d2a38f16a7
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 4de51277e5a08690cc16497e3916f40498b39fb8
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4175918"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5997448"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>註冊預覽版訂閱 - 精簡 
 
-本主題說明如何訂閱預覽版合作夥伴供應項目，以及部署「Dynamics 365 Project Operations Lite 部署 – 交易至開立預估發票」。
+本主題說明如何訂閱預覽版合作夥伴供應項目，以及部署 Dynamics 365 Project Operations 精簡部署 - 交易至開立預估發票。
 
 > [!NOTE]
 > 此程序將會在即將發行的 Project Operations 中變更。
@@ -42,7 +40,7 @@ ms.locfileid: "4175918"
 
 開始之前，請確定您已使用您要預覽 Project Operations 所在租用戶中的使用者公司帳戶來登入瀏覽器。
 
-1. 在瀏覽器 URL 中貼上第一個供應項目代碼 **Dynamics 365 Project Operations (CRM) - 預覽版試用** 以進行兌換。
+1. 將第一個優惠馬貼到瀏覽器 URL 中來兌換 **Dynamics 365 Project Operations (CRM) - 預覽版試用**。
 
 ![兌換供應項目](./media/16RedeemFirstOfferNew.png)
 
@@ -71,7 +69,7 @@ ms.locfileid: "4175918"
 
 ![指派授權](./media/15AssignLicenses.png)
 
-3. 確認是否已選取 **Dynamics 365 Project Operations (CRM) 預覽** 及 **Office 365 Project Operations - 預覽** 授權。 
+3. 確認是否已選取 **Dynamics 365 Project Operations (CRM) 預覽版** 和 **Office 365 Project Operations - 預覽版** 授權。 
 4. 選取 **儲存變更**。
 
 ## <a name="create-a-new-cds-environment"></a>建立新的 CDS 環境
@@ -91,3 +89,6 @@ ms.locfileid: "4175918"
 ## <a name="install-a-cds-configuration-and-setup-demo-data"></a>安裝 CDS 設定並設定示範資料
 
 依照主題[套用示範設定和設定資料](lite-apply-demo-setup-config-data.md)中的指示，安裝 CDS 設定並設定示範資料。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

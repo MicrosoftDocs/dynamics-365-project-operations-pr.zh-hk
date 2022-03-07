@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 5554cb062710c3587d81b1a29771a7af84d2d05f
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
+ms.openlocfilehash: dda8bc58c00082a9ef3835ea293003c63013983f
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4643200"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5277995"
 ---
 # <a name="manage-multiple-customers-on-project-contracts"></a>管理專案合約上的多個客戶
 
@@ -47,3 +47,6 @@ ms.locfileid: "4643200"
 您可以透過在網格中編輯來編輯帳單分割百分比。 當帳單分割百分比總計不是 100% 時，會發生錯誤。 編輯帳單分割百分比之後，請重新整理 **專案合約** 頁面以移除錯誤。
 
 您也可以在專案合約客戶子格上選取 **平均分配**。 帳單分割會平均分配給專案合約上的所有客戶。 如果有任何捨入係數，就會將係數新增至捨入客戶。 其中一個合約客戶一律將 **捨入** 旗標設定為 **是**。 該客戶為捨入客戶。 通常，捨入客戶也是合約的主要客戶，但是這並不是必要的。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

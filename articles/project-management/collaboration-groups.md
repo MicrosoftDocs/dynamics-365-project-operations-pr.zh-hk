@@ -5,21 +5,19 @@ author: ruhercul
 manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 815658ef66fb8083fb066f8f4d64a503580bfad2
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
+ms.openlocfilehash: 58868694987688e279e717d1f7acaf3fd9514770
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4642525"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4087359"
 ---
 # <a name="collaboration-with-office-groups"></a>與 Office 群組的共同作業
 
 _**適用於：** 資源/非庫存型案例適用的 Project Operations、精簡部署 - 交易至開立預估發票_
-
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 Office 群組可讓您與 Common Data Service 中的其他團隊成員共用專案。 將使用者新增至群組時，專案擁有權會轉移至群組。 所有使用者都會擁有對專案的編輯權限。 如果權限已由系統管理員授與，則使用者也可以查看該專案。 這些使用者不會顯示在群組中。
 

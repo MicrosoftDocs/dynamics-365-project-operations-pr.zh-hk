@@ -2,11 +2,9 @@
 title: 檢閱提案的資源
 description: 本主題提供有關如何提案建議專案資源的資訊。
 author: ruhercul
-manager: AnnBe
 ms.date: 11/05/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 54a0924da17eac86e2fa400540e629f6d803aa35
-ms.sourcegitcommit: 14aa380759214713d9bf560f5a7f619b7f4bd5b8
+ms.openlocfilehash: a9d3f7b9194b29859ee1479fea8158067e22e819e8f190ef1659e14b7c0cd6b5
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "4401200"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998038"
 ---
 # <a name="review-proposed-resources"></a>檢閱提案的資源
 
@@ -58,7 +56,10 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations、精簡
 
 如果排程面板上的個別可預約資源旁邊出現向右箭頭，則可以展開資源來顯示該資源所預約之工作的詳細資料。
 
-因為 Dynamics 365 Project Operations 使用 Universal Resource Scheduling 引擎，如果您也已安裝 Dynamics 365 Field Service，則可以檢視專案、工單以及任何其他您已將排程功能擴展至之實體的資源預約詳細資料。
+因為 Dynamics 365 Project Operations 使用 Universal Resource Scheduling 引擎，如果您也已安裝 Dynamics 365 Field Service，則可以檢視專案、工單以及任何其他您已給予排程之實體的資源預約詳細資料。
 
 若要檢視更多關於個別資源的詳細資料，請在其上按滑鼠右鍵以開啟資源卡片。
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

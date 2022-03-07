@@ -2,6 +2,8 @@
 title: 從排程面板建立專案預約
 description: 本主題提供有關如何從排程面板建立專案預約的資訊。
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 9/26/2019
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d33786a5d0a2485a06d174eb7afcbaaa2f337cf6
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 7032af78168c742ac64cb2a7174cabcbda579ff8
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5992993"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5146555"
 ---
 # <a name="create-a-project-booking-from-the-schedule-board"></a>從排程面板建立專案預約
 
@@ -89,6 +91,3 @@ ms.locfileid: "5992993"
 
 4. 現在資源已預約，您必須以手動方式指派工作。
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

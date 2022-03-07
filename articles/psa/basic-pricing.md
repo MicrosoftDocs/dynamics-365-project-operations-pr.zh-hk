@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 176b84671ca0b5b998c44be4f306d1f8f5200c72
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 2337a1cef55ecc3b7625a0c9a643b9ed8a1d70e5
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5148940"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5291196"
 ---
 # <a name="project-pricing"></a>專案定價 
 
@@ -131,3 +131,6 @@ PSA 會追蹤專案的人力資源時間使用成本。 還會追蹤專案期間
     1. 附加至組織單位的成本價目表。
     2. 附加至 Project Service 參數 的成本價目表。 因為可以將使用許多不同貨幣的成本價目表附加至 Project Service 參數，PSA 會在專案、合約或報價的承包組織單位貨幣與成本價目表的貨幣之間進行貨幣比較。
     3. 如果是費用，則依照成本和成本加成定價方式不適用於成本價目表。 即使這些定價方式是在成本價目表明細上用來設定交易類別成本，系統還是會予以忽略，而不會輸入預設成本價。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

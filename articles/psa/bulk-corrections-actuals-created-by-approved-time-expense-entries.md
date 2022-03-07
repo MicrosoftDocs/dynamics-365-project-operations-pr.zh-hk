@@ -18,12 +18,12 @@ ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
 search.app:
 - ProjectOperations
-ms.openlocfilehash: 063c4d017f5904f09c3c239bfa432a128872e4d7
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 17d6648840e27a4e573985af2cdd74c4adf878e1
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144980"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5290926"
 ---
 # <a name="bulk-corrections-of-actuals-created-by-approved-time-and-expense-entries"></a>大量更正由核准時間和費用分錄所建立的實際值
 
@@ -90,3 +90,6 @@ ms.locfileid: "5144980"
 8. 在專案頁面的 **實際值** 索引標籤上，檢閱 **實際值相關檢視表**。 原始分錄和更正分錄會列出。 下圖顯示原始費用分錄金額以及對應的已更正費用分錄金額。 
 
 ![費用實際值](https://user-images.githubusercontent.com/60806505/77122219-4cd52900-69fa-11ea-8349-ccd2ffebf640.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

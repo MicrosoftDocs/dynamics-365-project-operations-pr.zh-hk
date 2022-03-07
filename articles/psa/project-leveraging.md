@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 76e21f80e51e6f3092880dc629ba90b400805486
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 87dc72b76ec4f88684ef2c702718e1ab631ff936
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5148400"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5283935"
 ---
 # <a name="sales-estimates-and-projects"></a>銷售估計和專案
 
@@ -54,3 +54,6 @@ ms.locfileid: "5148400"
 ## <a name="importing-estimates-from-a-project-into-a-quote"></a>從專案將估計值匯入至報價
 
 定義專案估計值之後，您可以將這些值匯入至報價明細。 在 **報價明細詳細資料** 頁面上，選取功能區上的 **從估計值匯入**，以依據交易類型、角色或工作層級來摘要專案估計值。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,18 +2,16 @@
 title: 庫存/生產型案例適用的 Project Operations 部署概觀
 description: 此主題提供關於庫存/生產型案例適用的 Project Operations 部署類型的資訊。
 author: rumant
-manager: Annbe
 ms.date: 11/02/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 7bad4de10a508f0c1aa2cc6bb0c41081f81fb259
-ms.sourcegitcommit: d33ef0ae39f90fe3b0f6b4524f483e8052057361
+ms.openlocfilehash: 7b2a606bc587b99c16d45b19689ba90b422c3c62
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "4365674"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5999428"
 ---
 # <a name="project-operations-for-stockedproduction-based-scenarios-deployment-overview"></a>庫存/生產型案例適用的 Project Operations 部署概觀
 
@@ -43,3 +41,6 @@ _**適用於：** 庫存/生產型案例適用的 Project Operations_
 - 企業級銷售稅和匯率引擎，用於為專案產生面向客戶的發票。
 - 符合國際財務報告準則 (IFRS) 的專案會計和營收確認系統。
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

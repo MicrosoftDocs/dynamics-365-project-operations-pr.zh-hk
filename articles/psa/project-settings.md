@@ -2,8 +2,6 @@
 title: 專案設定
 description: 本主題提供有關專案管理設定的資訊。
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ca5fc63d56ddd84871949e38f421bcdfe38d478e
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 24032a77834005c444972f8d234d3acb33d19135
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5148175"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5998348"
 ---
 # <a name="project-settings"></a>專案設定
 
@@ -68,3 +66,6 @@ ms.locfileid: "5148175"
 ## <a name="price-lists"></a>價目表
 
 價目表可讓您針對組織中的資源角色、費用類別、產品及其他元素設定成本和售價。 設定必須為專案交付之工作的財務估計值之前，您應該建立支援成本和銷售價目表。 在參數區段中，您也應該設定套用至所有於組織建立之專案的預設成本和銷售價目表。 在 **使用中專案參數** 頁面上，確定您已設定預設成本和銷售價目表。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

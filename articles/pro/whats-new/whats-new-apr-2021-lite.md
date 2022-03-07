@@ -2,17 +2,19 @@
 title: 2021 年 4 月新增功能 - Project Operations 精簡部署
 description: 本主題提供有關 2021 年 4 月所發行 Project Operations 精簡部署中提供之品質更新的資訊。
 author: sigitac
+manager: tfehr
 ms.date: 04/07/2021
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 8c85e0230840753bc1d28a46b065bce002446f5d8c62da9666d58bc9d2a68af8
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: bd6fbe8d75fbe9157a97d2edd38d40a97395c924
+ms.sourcegitcommit: 8ff9fe396db6dec581c21cd6bb9acc2691c815b0
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7009423"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "5868065"
 ---
 # <a name="whats-new-april-2021---project-operations-lite-deployment"></a>2021 年 4 月新增功能 - Project Operations 精簡部署
 

@@ -2,12 +2,10 @@
 title: 將自訂欄位新增至價格設定與交易實體
 description: 本主題提供有關將自訂欄位新增至價格設定與交易實體的資訊。
 author: Rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: af2256e77c3ceeee9638f57d971137df1658687b
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 0eebafe8b4ce54c6ad6ca64200caea8fa414f6cf
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5148490"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6007573"
 ---
 # <a name="add-custom-fields-to-price-setup-and-transactional-entities"></a>將自訂欄位新增至價格設定與交易實體 
 
@@ -150,3 +148,6 @@ ms.locfileid: "5148490"
 |  實際|• 資訊<br>• 使用中實際值|• 實際值相關檢視表|
 
 可能也需要根據您定義的內容，在商務規則上新增自訂欄位。 現成可用的範例適用於商務規則 **根據狀態的時間項目編輯功能**。 此規則定義時間項目處於不可編輯狀態 (**已核准**) 時，需要鎖定哪些欄位。 將欄位新增至此商務規則，以便在時間項目處於 **草稿** 或 **已退回** 以外的狀態時，鎖定欄位不得編輯。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

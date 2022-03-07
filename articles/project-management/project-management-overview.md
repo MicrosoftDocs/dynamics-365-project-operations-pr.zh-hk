@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: c2bca0c7dfc957753f0d05f9a3b5cc45bc13b920
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 4e23b5cd4b625736e02e62624ee838926e4dd325
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4127590"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5286725"
 ---
 # <a name="project-management-overview"></a>專案管理概觀
 
@@ -26,3 +26,6 @@ Dynamics 365 Project Operations 中的專案管理工具可協助您輕鬆執行
 - 在銷售處理期間使用專案估計值。
 - 針對處於準銷售案源中的專案預測資源需求。
 - 追蹤進度及成本耗用以成功交付專案。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

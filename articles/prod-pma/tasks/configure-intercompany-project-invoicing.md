@@ -2,9 +2,11 @@
 title: 設定公司之間的專案發票開立
 description: 本主題說明如何設定您組織中兩家公司之間的專案發票開立。
 author: Yowelle
+manager: AnnBe
 ms.date: 07/29/2019
 ms.topic: business-process
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: VendTable, InterCompanyTradingRelationSetupVendor, SysDataAreaSelectLookup, ProjParameters, ProjPosting, ProjTransferPrice
 audience: Application User
@@ -15,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.search.validFrom: 2016-06-30
 ms.dyn365.ops.version: Version 7.0.0
-ms.openlocfilehash: dfb804945d15476fad29ce93d3f21adfbf2d950ace7b58f30911b36e494ff0c1
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 9df15cb3712356a164de3507f5dbc17a9ff9a652
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6989443"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5288406"
 ---
 # <a name="configure-intercompany-project-invoicing"></a>設定公司之間的專案發票開立
 

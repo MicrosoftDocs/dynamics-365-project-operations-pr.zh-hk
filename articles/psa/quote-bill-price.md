@@ -3,8 +3,6 @@ title: 報價、定價和帳務首頁
 description: 本主題提供有關報價、定價和帳務的資訊。
 author: rumant
 ms.author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 35fa9440a6f58a08092bcc3cc57a9097dce01e33
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 0923dbca91e2975d0fd90dde012122a85e5ac700
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147905"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6008968"
 ---
 # <a name="quoting-pricing-and-billing-home-page"></a>報價、定價和帳務首頁
 
@@ -44,3 +42,6 @@ ms.locfileid: "5147905"
 - [單位群組和單位](advanced-units.md)
 - [多重單位貨幣](advanced-currency.md)
 - [記錄實際值](advanced-actuals.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

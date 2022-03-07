@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 6bcd988fbd074c66d64f7e327b4329d3de27e950
-ms.sourcegitcommit: 2d399bc9d07807626f0d6b2d0cf304240c47591c
+ms.openlocfilehash: 107cecbc1dabdf13147d847bf1816f44cc2703c5
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "4531599"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5287310"
 ---
 # <a name="period-types"></a>期間類型
 
@@ -34,3 +34,6 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations_
 4. 選取期間類型記錄，然後選取 **產生期間**，以建立期間類型的期間。 根據您所選取的期間頻率，您可以選擇指定開始日期或要產生的期間數。
 5. 選取 **期間** 以檢閱產生的期間。
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

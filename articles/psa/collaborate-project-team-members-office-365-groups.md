@@ -2,8 +2,6 @@
 title: 透過 Office 365 群組與專案團隊成員共同作業
 description: 如何透過 Office 365 群組與 Project Service 團隊成員共同作業
 author: JohnPBurrows
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 68816b00b752249023f053836994a083bba5362d
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 5120d694ce095101e142b6c44e5ad18271000441
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150920"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5998618"
 ---
 # <a name="collaborate-with-your-project-team-members-with-office-365-groups-project-service"></a>透過 Office 365 群組與專案團隊成員共同作業 (Project Service)
 
@@ -43,3 +41,6 @@ ms.locfileid: "5150920"
   
 ### <a name="see-also"></a>請參閱  
  [時間、費用及共同作業指南](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

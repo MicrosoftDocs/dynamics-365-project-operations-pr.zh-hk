@@ -3,7 +3,7 @@ title: 建立時間項目
 description: 此主題提供有關如何建立時間項目的資訊。
 author: rumant
 manager: kfend
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 05/20/2019
@@ -18,16 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 520d3a6e6cc3d486d778c66c2ef7fd3ff20cd582
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 878413a24baa340b745a045a6991a63a00851c8b
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5149705"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4087591"
 ---
 # <a name="create-time-entries"></a>建立時間項目
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 

@@ -2,18 +2,16 @@
 title: 管理專案型合約服務內容上的多個客戶 - 精簡
 description: 本主題提供有關管理專案型合約服務內容上的多個客戶的資訊。
 author: rumant
-manager: Annbe
 ms.date: 10/27/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: f28e7d1363647621f7bd23504aa6d4ea3fc95fc9
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 23bb4cebd16bd1e8ae572d3e54538756547ae39e
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181692"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6003057"
 ---
 # <a name="manage-multiple-customers-on-project-based-contract-lines---lite"></a>管理專案型合約服務內容上的多個客戶 - 精簡
 
@@ -43,3 +41,6 @@ _**適用於：** 精簡部署 - 交易至開立預估發票_
 您可以在網格中編輯帳單分割百分比。 當帳單分割百分比總計不是 100% 時，會發生錯誤。 編輯帳單分割百分比之後，請重新整理頁面以移除錯誤。
 
 您也可以在合約服務內容客戶子格上選取 **平均分配**。 此動作會將帳單分割平均配置給所有合約服務內容客戶。 如果有任何捨入係數，就會將它新增至捨入客戶。 一位合約服務內容客戶永遠都是標記 **捨入** 客戶，且將 **捨入** 旗標設定為 **是**。
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

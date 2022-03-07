@@ -18,12 +18,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: df5c6bce8a534f4f8b1872e2bd5cc8a58ef11189
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 7bf75c13bb190c7b992aa516f1593d886dfa604d
+ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271605"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "5114739"
 ---
 # <a name="import-and-maintain-credit-card-transactions"></a>匯入和維護信用卡交易
 
@@ -50,6 +50,3 @@ ms.locfileid: "5271605"
 員工記錄終止後，即會停用該員工的 Active Directory Domain Services (AD DS) 帳戶。 不過，可能會有仍須認列為費用和進行報銷的有效信用卡交易。 您可以從 **信用卡交易** 頁面中，為任何有相關員工已離職的信用卡交易重新指派員工。
 
 選取一個或多個信用卡交易，然後選取 **重新指派交易**。 您可以接著選取其他員工，將信用卡交易指派給他。 重新指派信用卡交易之後，就可以選取這些交易以列入費用報表，並透過通常的費用報表報銷程序來支付。
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

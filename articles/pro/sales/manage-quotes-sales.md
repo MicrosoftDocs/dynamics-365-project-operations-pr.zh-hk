@@ -2,18 +2,16 @@
 title: 管理專案報價
 description: 本主題提供有關專案報價的資訊。
 author: rumant
-manager: Annbe
 ms.date: 10/26/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 3c33adabbd03cca19ae5e7f401f08a716e9242b2
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 8e0b20d4780a14edc3c242e261e22d4905f783a4
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4177853"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5994838"
 ---
 # <a name="manage-project-quotes"></a>管理專案報價
 
@@ -33,3 +31,6 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations、精簡
 2. 使用 **檢視表切換器** 選取報價的其他篩選過的檢視。 您可以使用自訂篩選準則來設定自己的檢視和導覽選項。
 
 您可以從此清單頁面或詳細資料頁面建立或刪除報價。
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

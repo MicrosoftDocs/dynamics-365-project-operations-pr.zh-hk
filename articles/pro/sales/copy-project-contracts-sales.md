@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 4137fc400c7fdd8fecd9d8349bf7f57f3470b51f
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: a0ffb807c8254f4d392c4750fa0b4a60f7fd26b0
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181434"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5273765"
 ---
 # <a name="copy-project-contracts---lite"></a>複製專案合約 - 精簡
 
@@ -45,3 +45,6 @@ _**適用於：** 精簡部署 - 交易至開立預估發票_
   - 客戶預算資訊
 
 由於此資訊明確專屬於每個特定合約，因此不會複製這些欄位和記錄。 將會複製專案與產品的合約服務內容、合約服務內容詳細資料的估計值，以及合約層級上不得超過的值。 價格及成本費率預設值取決於 **複製參數** 對話方塊頁面上所選取的 **複製定價** 欄位。
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -2,24 +2,22 @@
 title: 管理產品型報價明細的複雜單位，例如按使用者、按月為單位 - 精簡
 description: 本主題提供有關管理產品型報價明細複雜單位的資訊。
 author: rumant
-manager: Annbe
 ms.date: 10/06/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 2ee46da2f663ef4f5f8fc7f9f89b6fcfd09a1798
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: d53dde1d3b2705c5b0283f989d0e2eebfdcb5a0eb5f91cf4bf48e9c07aba79d1
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4175603"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6989803"
 ---
 # <a name="managing-complex-units-such-as-per-user-per-month-for-product-based-quote-lines---lite"></a>管理產品型報價明細的複雜單位，例如按使用者、按月為單位 - 精簡
 
 _**適用於：** 精簡部署 - 交易至開立預估發票_
 
-Dynamics 365 Project Operations 使用數量因數來支援以訂閱型產品的銷售。 對於訂閱型產品，報價或專案合約服務內容上的數量會以使用者的月數來表示。
+Dynamics 365 Project Operations 使用數量因素來支援訂閱型產品的銷售。 對於訂閱型產品，報價或專案合約服務內容上的數量會以使用者的月數來表示。
 
 訂閱軟體的價格通常在目錄中儲存為每個月每個使用者的價格。 在銷售處理期間，報價明細的價格通常是由 IT 銷售專員議定並打折扣的每個使用者、每個月的價格。 每筆交易都有不同的使用者數目和不同的訂閱月數。 用來計算報價明細的數量，是使用者人數與訂閱月數的乘積。
 
@@ -45,3 +43,6 @@ Project Operations 會驗證是否只有含有數值資料類型的數值屬性�
 6. 儲存後關閉表單。 針對所有要用於計算產品型報價明細數量的屬性，重複這些步驟。
 
 建立產品的產品型報價明細時，會鎖定報價明細的數量。 計算所得數量會是您針對該報價明細所輸入各個屬性值的乘積。
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

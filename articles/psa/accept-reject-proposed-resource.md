@@ -2,7 +2,7 @@
 title: 接受或拒絕提案的專案預約
 description: 此主題提供有關如何核准或拒絕提案的專案資源的資訊。
 manager: kfend
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 12/07/2018
@@ -18,16 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 7ae129284d0d053b78c39907a78a0cfda60ea43c
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 4c10c55961c74c2dc53fabd1d041a935ca9a4870
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5146195"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4087664"
 ---
 # <a name="accept-or-reject-a-proposed-project-resource"></a>接受或拒絕提案的專案預約
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 

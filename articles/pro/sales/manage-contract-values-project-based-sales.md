@@ -2,18 +2,17 @@
 title: 專案型合約服務內容概觀
 description: 本主題提供有關使用專案型合約服務內容的資訊。
 author: rumant
-manager: Annbe
 ms.date: 10/28/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 824fdd54d7b513b49afd1a6d76d3387df81418e2
-ms.sourcegitcommit: 5fd529f2308edfe9322082313e6d50146df56aca
+ms.custom: intro-internal
+ms.openlocfilehash: 22e8ff927c5ff6c3748a35031e7703e3fcfe0dab
+ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "5858185"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6369943"
 ---
 # <a name="project-based-contract-lines-overview"></a>專案型合約服務內容概觀
 

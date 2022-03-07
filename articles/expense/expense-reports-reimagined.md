@@ -1,9 +1,9 @@
 ---
 title: 顛覆想像的費用報表
-description: 本主題說明費用報表項目經過重新設計而顛覆想像的體驗。
+description: 本主題提供有關費用報表項目重新設計和顛覆想像體驗的資訊。
 author: suvaidya
 manager: AnnBe
-ms.date: 03/26/2021
+ms.date: 10/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: project-operations
@@ -15,12 +15,12 @@ ms.search.region: ''
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 79e6a407689813f8c87fdffba0cda84df10d3b83
-ms.sourcegitcommit: 46726e5c8c994735c1e570e08d6ed8f9c9341319
+ms.openlocfilehash: 18d7407681906361f3f818225efb8510ac981d98
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "5717722"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122838"
 ---
 # <a name="expense-reports-reimagined"></a>顛覆想像的費用報表
 
@@ -41,7 +41,11 @@ ms.locfileid: "5717722"
 - 不會移除費用報表 (現有頁面) 或費用報表欄位的任何現有功能表項目。
 - 工作流程和任何核准仍會帶您進入現有的費用報表頁面。
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4IQFM]
+## <a name="getting-started-video-for-new-users"></a>新使用者適用的開始使用影片
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2Y7gO]
+
+[Dynamics 365 for Finance and Operations 中的費用體驗](https://youtu.be/Ocy-MsTvEE0)影片 (如上所示) 已加入 YouTube 上提供的 [Finance and Operations 播放清單](https://www.youtube.com/playlist?list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW)中。
 
 ## <a name="new-features"></a>新功能
 
@@ -55,22 +59,22 @@ ms.locfileid: "5717722"
 | 減少訊息列中的訊息| 將資訊日誌訊息的數目已減少，並且已盡力避免重複的訊息出現在許多案例中。 |
 | 將通用動作群組在一起 | 介面已清理，並且加入了新的適用於大多數一般明細層級動作的動作按鈕，以及用於標題和其他較不常用動作的省略符號按鈕 (...) 。 |
 | 提升顯示性的新增工作區 | 新的工作區將功能與連結統合，使用者可用來移至不同的區域。 |
-| 在建立費用過程中新增現有的費用和收據 | 建立費用報表時，您可以新增所有費用，或選取未附加的費用。 未附加的費用是從公司信用卡摘要所匯入的費用，或是由使用者手動建立但尚未附加至費用報表的費用。|
+| 在建立費用過程中新增現有的費用和收據 | 建立費用報表時，您可以新增所有或所選的費用和收據。 |
 | 匯率計算機 | 您可以新增匯率計算機，用來計算現款支付的多重貨幣交易匯率。 |
 | 儲存並新增費用明細 | 輸入新的費用時，可以使用 **儲存** 和 **新增** 按鈕，協助您快速輸入費用明細。 |
 | 更清楚地查看分割和逐條列舉的明細 | 逐條列舉和分割的明細會直接新增至費用清單以增加顯示性，並協助您輕鬆判斷是否有任何錯誤。 |
 | 進行逐條列舉時顯示收據 | 進行逐條列舉時可以顯示收據。 |
-| 預付現金選取 | 選取一項或多項預付現金以完成單一費用交易。 |
-| 預付現金餘額 | 在您依據已核准和已支付的預付現金建立費用項目時，即時檢閱預付現金餘額。 |
 
 初次發行版本側重於費用項目案例。 任何費用報表審查或核准案例都會繼續使用現有的費用項目頁面。
 
-顛覆想像的費用工作區不支援下列功能：
+下列功能出現在現有的頁面，但在新頁面中還不存在。 這些功能會在接下來幾次發行的版本中重新推出：
 
+- 核准
+- 應付帳款核准以及編輯會計帳目的功能
+- 多個進入點
 - 差旅申請整合
+- 費用欄位顯示性的資料實體
 - 每日津貼費用項目
+- 明細層級工作流程
 - 暫時核准者支援
-- 用於檢視工作流程歷程記錄的功能
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+- 進階逐條列舉

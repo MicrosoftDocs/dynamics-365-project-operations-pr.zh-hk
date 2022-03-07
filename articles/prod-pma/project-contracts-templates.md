@@ -17,12 +17,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-13
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 1a470fd86ceccd7b6058da6972399a6d6be2a991
-ms.sourcegitcommit: 2b74edd31f38410024a01124c9202a4d94464d04
+ms.openlocfilehash: 319000e6a826580049e8575def5790ab595a3165
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4764846"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5289621"
 ---
 # <a name="synchronize-project-contracts-and-projects-directly-from-project-service-automation-to-finance"></a>將專案合約和專案直接從 Project Service Automation 同步處理至 Finance 
 
@@ -153,3 +153,6 @@ Project Service Automation 中發生中繼資料變更，這會影響專案合�
 #### <a name="project-contract-line-milestone-mapping-in-the-projects-and-contracts-psa-3x-to-dynamics---v2-template"></a>「專案與合約 (PSA 3.x 至 Dynamics) - v2」範本中的專案合約服務內容里程碑：
 
 [![專案合約服務內容里程碑與版本 2 範本的對應](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
