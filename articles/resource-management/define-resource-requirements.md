@@ -2,18 +2,16 @@
 title: 定義資源需求
 description: 本主題提供有關定義資源需求資訊的資訊。
 author: ruhercul
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: da803300f0e416be2544420d2b7e6e633923f65b
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 0fe030610424e84c823ae454542f2609a0b206033ab549619865e2c649cce113
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5279795"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6990298"
 ---
 # <a name="define-resource-requirements"></a>定義資源需求
 

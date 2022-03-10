@@ -2,18 +2,16 @@
 title: 在專案型合約服務內容中建立發票排程
 description: 本主題提供有關如何在合約服務內容上建立發票排程和里程碑的資訊。
 author: rumant
-manager: Annbe
 ms.date: 10/17/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 674f4ccced3d0e3178799f60d9f95a2ec27cd153
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 51a34e5a62fdadf7a6601f0a635efd484238f3565abcac8a1f7de3d49cebf23e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4180804"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6999703"
 ---
 # <a name="create-an-invoice-schedule-on-a-project-based-contract-line"></a>在專案型合約服務內容中建立發票排程 
 
@@ -49,7 +47,7 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations_
 3. 開啟需要建立里程碑排程的 **固定價格** 合約服務內容。 在 **帳單里程碑** 索引標籤上，選取帳單開始日期和發票週期。 
 4. 在子格上，選取 **產生定期里程碑**。 系統會產生依下列方式設定 **里程碑名稱**、**里程碑日期** 和 **里程碑金額** 欄位的發票排程：
 
-    - **里程碑名稱**：此日期取決於發票週期。
+    - **里程碑名稱**：這個名稱是由發票頻率所決定。
     - **里程碑日期**：此日期取決於發票週期。
     - **里程碑金額**：此金額的計算方式是，將合約服務內容的合約金額除以根據週期和帳單開始日期以及要求的交貨日期所決定的里程碑數目。
 
@@ -74,3 +72,6 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations_
 | 稅額 | 快速建立 | 套用在里程碑上的稅額。 | 這會轉入至專案合約服務內容里程碑和發票。 |
 
 3. 選取 **儲存後關閉**。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

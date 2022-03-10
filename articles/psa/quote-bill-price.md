@@ -5,6 +5,7 @@ author: rumant
 ms.author: rumant
 ms.custom:
 - dyn365-projectservice
+- intro-internal
 ms.date: 03/01/2019
 ms.topic: article
 audience: Admin
@@ -16,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0923dbca91e2975d0fd90dde012122a85e5ac700
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 0b3d40158534f039160156087d6edab0d21dd5f3eaf71d5b665eff794793a9b3
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6008968"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7004788"
 ---
 # <a name="quoting-pricing-and-billing-home-page"></a>報價、定價和帳務首頁
 

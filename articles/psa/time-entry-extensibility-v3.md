@@ -2,8 +2,6 @@
 title: 自訂每週時間項目
 description: 本主題提供有關如何實作支援組織實務之自訂商務規則的資訊。
 author: stsporen
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 07/09/2019
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 3c4a508f2a67f87302f8b81640d2031fd5d2627b
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: fa2ef927e0234919ee4777f24c60569fb33a8570f6d48be6aef356df4f08a6e7
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4127950"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7002313"
 ---
 # <a name="customize-weekly-time-entry"></a>自訂每週時間項目 
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
@@ -130,3 +130,6 @@ ms.locfileid: "4127950"
 
 > [!IMPORTANT] 
 > 目前，當更新未通過外掛程式驗證時，TBX 頁面會發生一個已知的問題，造成使用者無法更正資訊和重新選取 [完成]。 如需採取因應措施，請設定商務規則驗證，盡可能避免發生這種情況。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

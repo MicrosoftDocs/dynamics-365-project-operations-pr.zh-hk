@@ -2,11 +2,9 @@
 title: 設定人力和費用的標準成本
 description: 本主題說明如何設定專案的人力和費用標準成本。
 author: Yowelle
-manager: AnnBe
 ms.date: 08/02/2019
 ms.topic: business-process
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjCostPriceHour, ProjSalesPriceHour, ProjCostPriceExpense, ProjSalesPriceCost
 audience: Application User
@@ -17,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.search.validFrom: 2016-06-30
 ms.dyn365.ops.version: Version 7.0.0
-ms.openlocfilehash: b16ed50584b2b4535d1c61fe7069708182a4820e
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: b8f65709433ed6f9ff9d23ed6d99624ee1d4aaef6927ee689c9f7651807340c5
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5288361"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988003"
 ---
 # <a name="configure-standard-costs-for-labor-and-expenses"></a>設定人力和費用的標準成本
 

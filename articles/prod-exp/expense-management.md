@@ -2,28 +2,26 @@
 title: 費用管理概觀
 description: 本主題提供有關費用管理的一般資訊，以及其他資源的連結。 您可以使用費用管理來建立整合式工作流程，讓您可以儲存付款方式資訊、匯入信用卡交易，以及追蹤員工在開支業務費用時所花費的資金。
 author: ShylaThompson
-manager: AnnBe
 ms.date: 07/25/2019
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: TrvExpenseWorkspace
 audience: Application User, IT Pro
 ms.reviewer: roschlom
 ms.search.scope: Core, Operations
-ms.custom: 15001
+ms.custom: intro-internal
 ms.assetid: 2d97d69b-9c08-4f0d-9637-68759fd34d34
 ms.search.region: Global
 ms.author: shylaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: c27eede55e01dd1437dfc480741922ed9d617bff
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: b069b5101c0b093bea5ddb7c02d4e0f5fedd09b7ae051dca96f620b164c17fd3
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271875"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001458"
 ---
 # <a name="expense-management-overview"></a>費用管理概觀
 
@@ -37,7 +35,7 @@ ms.locfileid: "5271875"
 
 ### <a name="whats-new-and-in-development"></a>新功能與開發中功能
 
-若要查看規劃的新功能，請參閱 [Microsoft Dynamics 365 發行計劃](https://go.microsoft.com/fwlink/?linkid=2010158)。
+若要查看規劃的新功能，請參閱 [Microsoft Dynamics 365 發行計劃](/dynamics365/release-plans/)。
 
 #### <a name="expense-report-entry"></a>費用報表項目
 

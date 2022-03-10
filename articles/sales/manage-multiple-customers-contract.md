@@ -2,18 +2,16 @@
 title: 管理專案合約上的多個客戶
 description: 本主題提供有關如何管理專案合約上的多個客戶的資訊。
 author: rumant
-manager: Annbe
 ms.date: 11/18/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: dda8bc58c00082a9ef3835ea293003c63013983f
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 1adb786c36d43a148e8c5a8b25ded5a997557119f7e6e9e2248935ad4ed211d5
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5277995"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992098"
 ---
 # <a name="manage-multiple-customers-on-project-contracts"></a>管理專案合約上的多個客戶
 

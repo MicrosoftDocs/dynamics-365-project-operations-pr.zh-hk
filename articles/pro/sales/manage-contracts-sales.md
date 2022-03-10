@@ -2,18 +2,16 @@
 title: 管理專案合約
 description: 本主題提供檢視專案型合約的相關資訊。
 author: rumant
-manager: Annbe
 ms.date: 10/26/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 5a4357d5cf184a3c6ada3ae33631694c31bb5b00
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 448c5a7c4144387440b26c526f66acbbbe475ad533da9e00db0eb5d5e86be9e8
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5273242"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001863"
 ---
 # <a name="manage-project-contracts"></a>管理專案合約
 

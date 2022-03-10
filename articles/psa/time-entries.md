@@ -2,8 +2,6 @@
 title: 建立時間項目
 description: 此主題提供有關如何建立時間項目的資訊。
 author: rumant
-manager: kfend
-ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 05/20/2019
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 878413a24baa340b745a045a6991a63a00851c8b
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 0d0e21d0964788564d3db9173c3a0b3378cd0049b4455a23ccc1bccd1c21d9e7
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4087591"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6990433"
 ---
 # <a name="create-time-entries"></a>建立時間項目
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
@@ -68,3 +68,6 @@ ms.locfileid: "4087591"
 ## <a name="group-by-sort-search-and-filter-capabilities"></a>群組依據、排序、搜尋及篩選功能
 
 您可以依據欄中指定的維度來分組和篩選時間項目。 在 **群組依據** 欄位中，選取要用來篩選時間項目的維度。 您也可以使用欄標題上的排序箭頭，依遞增或遞減順序排序時間項目記錄。 此外，還可以選取欄標題上的 **篩選** 按鈕來顯示或隱藏項目，然後在 **搜尋** 方塊中輸入要依據專案名稱、專案工作、時間項目或資源用來搜尋時間項目的文字。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

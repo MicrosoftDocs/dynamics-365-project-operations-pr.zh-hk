@@ -1,12 +1,10 @@
 ---
-title: 使用 OCR 來比對收據與費用
+title: 使用 OCR 擷取收據
 description: 本主題提供有關使用光學字元辨識 (OCR) 處理收據的資訊。
 author: suvaidya
-manager: AnnBe
-ms.date: 09/23/2020
+ms.date: 11/10/2021
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-365-customerservice
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -15,14 +13,14 @@ ms.search.region: ''
 ms.author: shylaw
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 62d6316c9602089518a94267d8ef2b7fb8d59cd0
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 4dc1628a0dde0551aaf3bc10af628ef57881d85e
+ms.sourcegitcommit: a51f40c905874103040708be2188c04ab0716c38
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4087465"
+ms.lasthandoff: 11/11/2021
+ms.locfileid: "7798067"
 ---
-# <a name="match-a-receipt-to-an-expense-using-ocr"></a>使用 OCR 來比對收據與費用
+# <a name="capture-a-receipt-using-ocr"></a>使用 OCR 擷取收據
 
 _**適用於：** 資源/非庫存型案例適用的 Project Operations、精簡部署 - 交易至開立預估發票_
 
@@ -87,10 +85,24 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations、精簡
 
 **什麼地方會提供並處理此功能？**
 
-目前支援美國地區。
+下表列出此功能在不同地區的可用性。 如果目前不支援您的地區，請提交表示希望在您所在地區中優先推出 OCR 服務的要求。 
+
+| 地區 | 支援                         |
+|--------|-----------------------------------|
+| 美國    | .是                               |
+| 加拿大    | .是                               |
+| 英國     | .是                               |
+| 澳洲    | .是                               |
+| 歐盟     | 部分支援。 僅限英文收據。 |
+| 亞洲   | 無                                |
+| 日本  | 無                                |
+| 非洲 | 無                                |
 
 **我的收據哪裡去了？**
 
 Finance 會連絡 Cognitive Services 來擷取欄位資料。 進行處理時，Cognitive Services 會保留您的收據複本最長 24 小時。 完成處理後，Cognitive Services 將會移除收據。 收據仍然儲存在 Finance 中。
 
 如需詳細資訊，請參閱[使用表單辨識器的新功能來啟用收據瞭解](https://azure.microsoft.com/blog/enable-receipt-understanding-with-form-recognizer-s-new-capability/)。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

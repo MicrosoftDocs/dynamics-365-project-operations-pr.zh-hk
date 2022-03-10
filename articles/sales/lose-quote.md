@@ -2,18 +2,16 @@
 title: 複製專案型報價
 description: 本主題提供有關如何在 Project Operations 中複製專案型報價的資訊。
 author: rumant
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: d7234958d542dec4cba55cb0516f1222937389e1
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 247f9d33bc2e7b0bcbeae8114bb436ed237efce660d0840e58d536d2a290639e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4087377"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992188"
 ---
 # <a name="copy-project-based-quotes"></a>複製專案型報價
 
@@ -25,7 +23,7 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations、精簡
 
 這會開啟對話方塊頁面，您可以在其中輸入複製參數。 下表列出對話方塊頁面中包含的欄位。 視您選取的值而定，複製程序可能會變更。
 
-| **欄位** | **關聯性、目的和指引** | **下游影響** |
+| **欄位** | **描述** | **下游影響** |
 | --- | --- | --- |
 | 主題 | 輸入目標報價的相關主題或名稱。 對話方塊開啟時，系統會將其設定為來源報價的主題，並在其後附加 **-複製**。 | |
 | 潛在客戶 | 參考客戶的公司或客戶記錄。 對話方塊開啟時，系統會將其設定為來源報價上的客戶。 | 此欄位是報價上的主要客戶。 |
@@ -45,3 +43,6 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations、精簡
 > - 專案型報價明細上的專案參考 - 客戶預算資訊
 >
 >由於此資訊極其明確專屬於每個報價，因此不會複製這些欄位和記錄。 將會複製專案與產品的報價明細、報價明細詳細資料的估計值，以及報價層級上不得超過的值。 價格及成本費率預設值取決於 **複製參數** 對話方塊頁面上所選取的 **複製定價** 選項。
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,8 +2,6 @@
 title: 建立專案的 Office 365 群組
 description: 如何建立 Project Service 中的 Office 365 群組
 author: JohnPBurrows
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c3f2be4f68fc492dc867cdbbac6f1401eede629d
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 88ae5eb298e802fdcff24bae378e406d1bc478a63ea37e5bc5d477d137826877
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4118860"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005013"
 ---
 # <a name="create-an-office-365-group-for-a-project-project-service"></a>建立專案的 Office 365 群組 (Project Service)
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -41,3 +41,6 @@ ms.locfileid: "4118860"
   
 ### <a name="see-also"></a>請參閱  
  [專案經理指南](../psa/project-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

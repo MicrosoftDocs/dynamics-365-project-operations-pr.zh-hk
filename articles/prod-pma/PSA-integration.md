@@ -9,18 +9,18 @@ ms.technology: ''
 audience: Application User
 ms.reviewer: ruhercul
 ms.search.scope: Core, Operations
-ms.custom: 87983
+ms.custom: intro-internal
 ms.assetid: b454ad57-2fd6-46c9-a77e-646de4153067
 ms.search.region: Global
 ms.author: ruhercul
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 5ca459b99881b612e4656be112c8a2e420b4196e
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 551d511fda83857459a0488cfb48a9c7829171d2e4bd526ab27b4ee74b21910d
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6005908"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005913"
 ---
 # <a name="project-service-automation-overview"></a>Project Service Automation 概觀
 
@@ -56,7 +56,7 @@ Project Service Automation 至 Finance 整合解決方案會使用資料整合�
 > [!NOTE]
 > 目前並非所有的範本都有提供。 範本完成時，就會發行。
 
-[![Project Service Automation 與 Finance 整合](./media/PSA-integration.png)](./media/PSA-integration.png)
+[![Project Service Automation 與 Finance 整合。](./media/PSA-integration.png)](./media/PSA-integration.png)
 
 ## <a name="system-requirements-for-finance"></a>Finance 系統需求
 

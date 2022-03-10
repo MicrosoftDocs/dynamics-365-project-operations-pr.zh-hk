@@ -2,12 +2,8 @@
 title: 費用管理行動工作區
 description: 本主題提供有關費用管理行動工作區的資訊。 此工作區允許使用者擷取並上傳收據，讓他們可以稍後將收據附加至費用報表。 使用者也可以使用附加的收據快速建立費用明細，並建立和管理他們的費用報表。
 author: suvaidya
-manager: AnnBe
 ms.date: 12/01/2017
 ms.topic: article
-ms.prod: ''
-ms.service: dynamics-ax-applications
-ms.technology: ''
 audience: Application User
 ms.reviewer: roschlom
 ms.search.scope: Core, Operations
@@ -17,12 +13,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: cc19297131937949fe6f7eed00ee66fb5e3bff13
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 0559f881aba2d0a9c65ad123a40803743fc7407bb0d87ac6e8280ee8e30d36b7
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5950506"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001503"
 ---
 # <a name="expense-management-mobile-workspace"></a>費用管理行動工作區
 
@@ -104,7 +100,7 @@ ms.locfileid: "5950506"
 5. 登入後，會顯示您公司可用的工作區。 請注意，如果系統管理員稍後發佈了新的工作區，您就必須重新整理行動工作區的清單。
 
 
-[![拖動以重新整理](./media/pull-to-refresh-list-of-workspaces-183x300.png)](./media/pull-to-refresh-list-of-workspaces.png)
+[![拖動以重新整理。](./media/pull-to-refresh-list-of-workspaces-183x300.png)](./media/pull-to-refresh-list-of-workspaces.png)
 
 ## <a name="capture-a-receipt-by-using-the-expense-management-mobile-workspace"></a>使用費用管理行動工作區來擷取收據
 

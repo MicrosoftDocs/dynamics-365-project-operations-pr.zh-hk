@@ -2,18 +2,16 @@
 title: 費用報表的分配
 description: 在費用報表上輸入費用時，您可以將這些費用分配至組織中的多個專案、法律實體或客戶。
 author: suvaidya
-manager: AnnBe
 ms.date: 10/10/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: suvaidya
-ms.openlocfilehash: a1fa7383e7715fe57380de0a006ccc4e020bb5a5
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 396fd201949663d93d90f6609e5b97f646f7942cde002c91482fa7dc26c394ae
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4087381"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7006273"
 ---
 # <a name="distributions-on-an-expense-report"></a>費用報表的分配
 
@@ -30,3 +28,6 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations_
 | 車費   | 丹麥克朗 578              | 丹麥克朗 405                         | 丹麥克朗 173                         |
 | 飯店        | 歐元 725              | 歐元 557                         | 歐元 168                         |
 | 餐費        | 歐元 346              | 歐元 284                         | 歐元 62                          |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

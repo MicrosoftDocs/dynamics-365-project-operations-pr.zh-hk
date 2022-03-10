@@ -2,8 +2,6 @@
 title: 使用示範資料進行實驗
 description: 如何下載 Project Service Automation 的示範資料並用來進行實驗。
 author: JohnPBurrows
-manager: kfend
-ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d0bc6d171f2f3080b7b1c34222de49e93415a139
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 49b5f0fe9c35e6975fa05c592920f38203a888d49a341c8c54005c4bdb3a0786
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4087579"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998128"
 ---
 # <a name="experiment-with-demo-data-project-service"></a>使用示範資料進行實驗 (Project Service)
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 若要熟悉 Dynamics 365 Project Service Automation，擁有預先設定的環境將有助於探索。 為了此目的，我們已建立可讓您輕鬆了解這些解決方案的不同範例資料安裝套件 (目前只有英文版本)。 
 
@@ -53,3 +53,6 @@ ms.locfileid: "4087579"
  [專案經理指南](../psa/project-manager-guide.md)   
  [資源管理員指南](../psa/resource-manager-guide.md)   
  [時間、費用及共同作業指南](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,8 +2,6 @@
 title: 套用行事曆至資源
 description: 如何套用行事曆至 Project Service 中的資源
 author: rumant
-manager: kfend
-ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 69427581f606783ed2b159dd6627481a2229a707
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 24d300df710850df329c9fbba2b6eeceaa7d29125aae23a42bf3f2a94bed131a
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4087700"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7000693"
 ---
 # <a name="apply-a-calendar-to-a-resource-project-service"></a>套用行事曆至資源 (Project Service)
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -43,3 +43,6 @@ ms.locfileid: "4087700"
   
 ### <a name="see-also"></a>請參閱  
  [設定資源](../psa/set-up-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

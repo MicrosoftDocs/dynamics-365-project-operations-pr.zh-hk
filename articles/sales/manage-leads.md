@@ -2,18 +2,16 @@
 title: 管理潛在客戶
 description: 本主題提供有關管理專案型潛在客戶的資訊。
 author: rumant
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 4c99485a1d0c54ae848e5fbed4c4590e96cba9fd
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 2ac6d03e8e070b62a2ffe689cccfc19bad1ee2bdc88dd65902f663b2d19ba655
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181794"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7008208"
 ---
 # <a name="manage-leads"></a>管理潛在客戶
 
@@ -55,7 +53,7 @@ _**適用於：** 資源/非庫存型案例適用的 Project Operations_
 - 與採用潛在客戶 **名字** 及 **姓氏** 欄位值之客戶相關聯的連絡人記錄。
 - **類型** 欄位已設定為 **工作型** 的專案型商機。
 
-如需有關授與潛在客戶資格的詳細資訊，請參閱[授與客戶資格或轉換潛在客戶](https://docs.microsoft.com/dynamics365/sales-enterprise/qualify-lead-convert-opportunity-sales)。
+如需有關授與潛在客戶資格的詳細資訊，請參閱[授與客戶資格或轉換潛在客戶](/dynamics365/sales-enterprise/qualify-lead-convert-opportunity-sales)。
 
 ## <a name="lead-qualification-and-legal-entity-information"></a>潛在客戶資格與法律實體資訊 
 
@@ -80,3 +78,6 @@ Project Operations 中的專案型交易支援下列商務程序流程：
 | 開發 | 商機​​ | 開發商機以新增有關所涉及工作、主要利害關係人和競爭者的詳細資訊。 |
 | 提案 | 商機​​ | 開發提案，並取得內部審查團隊的核准。 |
 | 關閉​​ | 商機​​ | 贏得商機以完成交易。 |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

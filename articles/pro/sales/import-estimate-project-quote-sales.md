@@ -2,22 +2,20 @@
 title: 將專案的估計值匯入至專案型報價明細 - 精簡
 description: 本主題提供有關如何將估計值從專案匯入至報價明細的資訊。
 author: rumant
-manager: Annbe
 ms.date: 10/09/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 607ccaeb61b12458f8b0e9d7230c000e7ff0501a
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: a5ac7827f3499aafb63f6bc0b8580ca52e883f272464532bd353170a12b3ae55
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4177763"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6986158"
 ---
-# <a name="import-estimates-for-a-project-to-a-project-based-quote-line---lite"></a>將專案的估計值匯入至專案型報價明細 - 精簡
+# <a name="import-estimates-for-a-project-to-a-project-based-quote-line"></a>將專案的估計值匯入至專案型報價明細 
 
-_**適用於：** 精簡部署 - 交易至開立預估發票_
+_**適用於：** 精簡部署 - 交易至開立預估發票、資源/非庫存型案例適用的 Project Operations_
 
 如果已在售前階段期間建立專案，您可以選擇將財務估計值從專案匯入至專案型報價明細。
 
@@ -30,7 +28,7 @@ _**適用於：** 精簡部署 - 交易至開立預估發票_
   - **角色** 
   - **專案工作**
 
-根據您的選取項目，系統會從專案複製對此報價明細所包含所有交易分類的估計值。 若要檢查包含哪些交易分類，請選取專案型報價明細上的 **一般** 索引標籤，然後檢查 **包含時間**、**包含費用** 及 **包含服務費** 的值。  若要檢查包含哪些工作，請選取報價明細上的 **應收費工作** 索引標籤。
+根據您的選取項目，系統會從專案複製對此報價明細所包含所有交易分類的估計值。 若要檢查包含哪些交易分類，請選取專案型報價明細上的 **一般** 索引標籤，並檢查 **包括時間**、**包括費用**、**包括材料** 和 **包括費用** 的值。  若要檢查包含哪些工作，請選取報價明細上的 **應收費工作** 索引標籤。
 
 視工作相關的交易分類和包含的交易分類而定，這些工作與交易分類組合的估計值會匯入至報價明細。
 
@@ -68,3 +66,6 @@ _**適用於：** 精簡部署 - 交易至開立預估發票_
 | 工作 A | 機票 | 2020/10/1 | 4 | 400 | 1600 |
 | 工作 B | 飯店 | 2020/10/1 | 4 | 200 | 800 |
 | 工作 C | 飯店 | 2020/11/1 | 2 | 200 | 400 |
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

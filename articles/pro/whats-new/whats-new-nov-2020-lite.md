@@ -2,18 +2,16 @@
 title: 2020 年 11 月 - Project Operations Lite 部署 - 交易至開立預估發票新增功能
 description: 此主題提供關於 Project Operations Lite 部署 - 交易至開立預估發票 2020 年 11 月版本中所提供之品質更新的資訊。
 author: sigitac
-manager: Annbe
 ms.date: 11/02/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: eb7c15fa937d508fa30ed2c04a6aa9cb117ef011
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 4a65ab00c7f729b72cc32b4786055feba4aaee452ac4cf413047f81651c92290
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5272100"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7003303"
 ---
 # <a name="whats-new-november-2020---project-operations-lite-deployment---deal-to-proforma-invoicing"></a>2020 年 11 月 - Project Operations Lite 部署 - 交易至開立預估發票新增功能
 

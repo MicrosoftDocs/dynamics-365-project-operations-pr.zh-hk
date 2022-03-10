@@ -2,20 +2,18 @@
 title: 商機設定 - 精簡
 description: 本主題提供有關專案型交易和專案型商機明細的資訊。
 author: rumant
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: b84b1831abaf6c428f9b8da959abe2541c788db6
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 6a9a1ea9dacdb3aa2dbc8a0500481b204ff14eddfc1138e3db43ff568d7cd48b
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5272730"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6994483"
 ---
-# <a name="opportunity-header---lite"></a>商機標題 - 精簡
+# <a name="header-details-for-project-opportunities"></a>專案商機的標題詳細資料
 
 _**適用於：** 精簡部署 - 交易至開立預估發票_
 
@@ -33,7 +31,7 @@ Dynamics 365 Project Operations 中的專案型商機是 Dynamics 365 Sales 中�
 | 客戶經理 | [一般] 索引標籤 | 此專案型商機的客戶經理姓名。 | 客戶經理負責管理與客戶之間的關聯，直到此專案完成。 根據繫結至客戶經理的可預約資源記錄，預設會使用合約單位。 |
 | 合約單位 | [一般] 索引標籤 | 負責交付專案或與此交易相關之專案的組織單位。 | 合約單位是要在完成交易後完成專案的公司部門。 每個合約單位都有貨幣，而此貨幣可用來報告專案期間所產生的估計和實際成本。 |
 
-如需了解商機 **摘要** 索引標籤上的所有其他欄位和區段，請參閱[建立或編輯商機 (Sales 和銷售中心)](https://docs.microsoft.com/dynamics365/sales-enterprise/create-edit-opportunity-sales)
+如需了解商機 **摘要** 索引標籤上的所有其他欄位和區段，請參閱[建立或編輯商機 (Sales 和銷售中心)](/dynamics365/sales-enterprise/create-edit-opportunity-sales)
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -2,8 +2,6 @@
 title: 進階報價、定價和帳務
 description: 本主題提供有關 Project Service Automation 中報價、帳務和定價的資訊。
 author: kfend
-manager: kfend
-ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 2/14/2019
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 80d16c0ee9e79d31a52f0b47e59d1b7603f117a5
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 4e589c83b8d9b0946f331b5ad03f4946fcddf6813a1529fb65d9b86f8ebf3a07
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4087602"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985663"
 ---
 # <a name="advanced-quoting-pricing-and-billing-guide"></a>進階報價、定價和帳務指南
+
+[!include [banner](../../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../../includes/cc-applies-to-psa-app-3x.md)]
 
@@ -50,3 +50,6 @@ ms.locfileid: "4087602"
 
 > [!NOTE]
 > 本主題將會在日後的文件更新中移除。 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

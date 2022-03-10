@@ -2,8 +2,6 @@
 title: 新增資源
 description: 如何在 Project Service 中新增資源
 author: JohnPBurrows
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5d957f793b7909893a7fa311e6572a8ace9fde0f
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: ea45dad7917df21081e777b2a88f33d85b63d18cb86749ba62a24dfdf48bd939
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5145835"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005283"
 ---
 # <a name="add-resources-project-service"></a>新增資源 (Project Service)
 
@@ -55,3 +53,6 @@ ms.locfileid: "5145835"
   
 ### <a name="see-also"></a>請參閱  
  [設定資源](../psa/set-up-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
