@@ -1,6 +1,6 @@
 ---
 title: 估計值
-description: 本主題提供有關 Dynamics 365 Project Service Automation 中估計值的資訊。
+description: 本文提供有關 Dynamics 365 Project Service Automation 中估計值的資訊。
 author: rumant
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 978af25fb89feb61e3c6fcfeafa212db034ff5cb
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: fdd8fa033131500956249b1bdabc135b5057bbc1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8590695"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8920547"
 ---
 # <a name="estimates"></a>估計值
 
@@ -32,7 +32,7 @@ ms.locfileid: "8590695"
 
 在專案型報價上，您可以使用報價明細詳細資料實體來估計交付專案所需的工作。 然後就可以與客戶分享該估計值。
 
-專案型報價單明細不必有任何報價明細詳細資料。 或者，可以有許多報價明細詳細資料。 報價明細詳細資料可用來估計時間、費用或服務費。 PSA 不允許估計報價明細詳細資料上的材料。 這些稱為交易分類。 估計的稅額也可以在交易分類上輸入。
+專案型報價明細不必有任何報價明細詳細資料。 或者，可以有許多報價明細詳細資料。 報價明細詳細資料可用來估計時間、費用或服務費。 PSA 不允許估計報價明細詳細資料上的材料。 這些稱為交易分類。 估計的稅額也可以在交易分類上輸入。
 
 除了交易分類之外，報價明細詳細資料還有一種交易類型。 PSA 支援報價明細詳細資料的兩種交易類型：**成本** 和 **專案合約**。
 
